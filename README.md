@@ -60,6 +60,23 @@ For a list of free machine learning books available for download, go [here](http
 * [DeepLearningKit](http://deeplearningkit.org/) an Open Source Deep Learning Framework for Apple’s iOS, OS X and tvOS.
   It currently allows using deep convolutional neural network models trained in Caffe on Apple operating systems.
 
+## Github
+
+#### Tutorials
+
+* [TensorFlow Tutorial 1](https://github.com/pkmital/tensorflow_tutorials) - From the basics to slightly more interesting applications of Tensorflow
+* [TensorFlow Tutorial 2](https://github.com/nlintz/TensorFlow-Tutorials) - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano 
+* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow tutorials and code examples for beginners
+
+#### Models/Projects
+
+* [Pretty Tensor](https://github.com/google/prettytensor) - Pretty Tensor provides a high level builder API for TensorFlow.
+* [Neural Style](https://github.com/anishathalye/neural-style) - An implementation of neural style in TensorFlow.
+* [TensorFlow White Paper Notes](https://github.com/samjabrahams/tensorflow-white-paper-notes) - Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation
+* [NeuralArt](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of A Neural Algorithm of Artistic Style by Tensorflow.
+* [Generative Handwriting Demo using TensorFlow](https://github.com/hardmaru/write-rnn-tensorflow) - An attempt to implement the random handwriting generation portion of Alex Graves' paper.
+* 
+
 <a name="credits" />
 ## Credits
 
