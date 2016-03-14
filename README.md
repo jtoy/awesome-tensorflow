@@ -16,22 +16,16 @@ For a list of free machine learning books available for download, go [here](http
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
-- [Java](#java)
-    - [Natural Language Processing](#java-nlp)
-    - [General-Purpose Machine Learning](#java-general-purpose)
-    - [Data Analysis / Data Visualization](#java-data-analysis)
-    - [Deep Learning](#java-deep-learning)
-- [Javascript](#javascript)
-    - [Natural Language Processing](#javascript-nlp)
-    - [Data Analysis / Data Visualization](#javascript-data-analysis)
-    - [General-Purpose Machine Learning](#javascript-general-purpose)
-    - [Misc](#javascript-misc)
-- [Julia](#julia)
-    - [General-Purpose Machine Learning](#julia-general-purpose)
-    - [Natural Language Processing](#julia-nlp)
-    - [Data Analysis / Data Visualization](#julia-data-analysis)
-    - [Misc Stuff / Presentations](#julia-misc)
-
+- [C](#c)
+    - [General-Purpose Machine Learning](#c-general-purpose)
+    - [Computer Vision](#c-computer-vision)
+    - [Swift General Purpose Machine Learning](#c-swift-general-purpose)
+- [Github](#github)
+    - [Tutorials](#github-tutorials)
+    - [TensorFlow Projects](#github-projects)
+    - [Powered by TensorFlow](#github-powered-by)
+- [Videos](#video)
+- [Papers](#papers)
 
 <!-- /MarkdownTOC -->
 
@@ -43,15 +37,15 @@ For a list of free machine learning books available for download, go [here](http
 * [Recommender](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
 
 
-<a name="c-cv" />
+<a name="c-computer-vision" />
 #### Computer Vision
 
 * [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
 * [VLFeat](http://www.vlfeat.org/) - VLFeat is an open and portable library of computer vision algorithms, which has Matlab toolbox
 
 
-<a name="swift-general-purpose" />
-#### General-Purpose Machine Learning
+<a name="c-swift-general-purpose" />
+#### Swift General-Purpose Machine Learning
 
 * [Swift AI](https://github.com/collinhundley/Swift-AI) - Highly optimized artificial intelligence and machine learning library written in Swift.
 * [BrainCore](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework
@@ -60,14 +54,17 @@ For a list of free machine learning books available for download, go [here](http
 * [DeepLearningKit](http://deeplearningkit.org/) an Open Source Deep Learning Framework for Apple’s iOS, OS X and tvOS.
   It currently allows using deep convolutional neural network models trained in Caffe on Apple operating systems.
 
+<a name="github" />
 ## Github
 
+<a name="github-tutorials" />
 #### Tutorials
 
 * [TensorFlow Tutorial 1](https://github.com/pkmital/tensorflow_tutorials) - From the basics to slightly more interesting applications of Tensorflow
 * [TensorFlow Tutorial 2](https://github.com/nlintz/TensorFlow-Tutorials) - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano 
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow tutorials and code examples for beginners
 
+<a name="github-projects" />
 #### Models/Projects
 
 * [Pretty Tensor](https://github.com/google/prettytensor) - Pretty Tensor provides a high level builder API for TensorFlow.
@@ -75,7 +72,25 @@ For a list of free machine learning books available for download, go [here](http
 * [TensorFlow White Paper Notes](https://github.com/samjabrahams/tensorflow-white-paper-notes) - Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation
 * [NeuralArt](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of A Neural Algorithm of Artistic Style by Tensorflow.
 * [Generative Handwriting Demo using TensorFlow](https://github.com/hardmaru/write-rnn-tensorflow) - An attempt to implement the random handwriting generation portion of Alex Graves' paper.
+* [Neural Turing Machine in Tensorflow](https://github.com/carpedm20/NTM-tensorflow) - Tensorflow implementation of Neural Turing Machine.
 * 
+
+<a name="github-powered-by" />
+#### Powered by TensorFlow
+
+<a name="video" />
+##Videos
+* [Tensorflow Guide 1](http://bit.ly/1OX8s8Y) - A guide to installing and using TensorFlow
+* [TensorFlow Guide 2](http://bit.ly/1R27Ki9) - Continuation of first video
+* [TensorFlow Basic Usage](http://bit.ly/1TCNmEY) - A guide going over basic usage of TensorFlow
+* [TensorFlow Deep MNIST for Experts](http://bit.ly/1L9IfJx) - Goes over Deep MNIST
+* [TensorFlow Udacity Deep Learning](https://www.youtube.com/watch?v=ReaxoSIM5XQ) - This video shows the very basic steps to get TensorFlow installed for free on the Cloud 9 online service with 1Gb of data.
+
+<a name="papers" />
+##Papers
+*[TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf) - This paper describes the TensorFlow interface and an implementation of that interface that we have built at Google.
+*[]() - 
+
 
 <a name="credits" />
 ## Credits
