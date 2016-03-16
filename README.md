@@ -26,6 +26,7 @@ For a list of free machine learning books available for download, go [here](http
     - [Powered by TensorFlow](#github-powered-by)
 - [Videos](#video)
 - [Papers](#papers)
+- [Blogposts on Tensor Flow](#blogs)
 
 <!-- /MarkdownTOC -->
 
@@ -88,8 +89,13 @@ For a list of free machine learning books available for download, go [here](http
 
 <a name="papers" />
 ##Papers
-*[TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf) - This paper describes the TensorFlow interface and an implementation of that interface that we have built at Google.
+* [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf) - This paper describes the TensorFlow interface and an implementation of that interface that we have built at Google.
 *[]() - 
+
+<a name="blogs" />
+##Blogposts on Tensor Flow
+* [Tensor Flow for Poets](http://petewarden.com/2016/02/28/tensorflow-for-poets/) - A blog post dealing with how Tensor Flow works and how it could be implemented
+* 
 
 
 <a name="credits" />
