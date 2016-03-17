@@ -26,6 +26,7 @@ For a list of free machine learning books available for download, go [here](http
     - [Powered by TensorFlow](#github-powered-by)
 - [Videos](#video)
 - [Papers](#papers)
+- [Blogposts](#blogs)
 
 <!-- /MarkdownTOC -->
 
@@ -73,10 +74,10 @@ For a list of free machine learning books available for download, go [here](http
 * [NeuralArt](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of A Neural Algorithm of Artistic Style by Tensorflow.
 * [Generative Handwriting Demo using TensorFlow](https://github.com/hardmaru/write-rnn-tensorflow) - An attempt to implement the random handwriting generation portion of Alex Graves' paper.
 * [Neural Turing Machine in Tensorflow](https://github.com/carpedm20/NTM-tensorflow) - Tensorflow implementation of Neural Turing Machine.
-* 
 
 <a name="github-powered-by" />
 #### Powered by TensorFlow
+* [YOLO Tensorflow](https://github.com/gliese581gg/YOLO_tensorflow) - tensorflow implementation of 'YOLO : Real-Time Object Detection'
 
 <a name="video" />
 ##Videos
@@ -85,12 +86,19 @@ For a list of free machine learning books available for download, go [here](http
 * [TensorFlow Basic Usage](http://bit.ly/1TCNmEY) - A guide going over basic usage of TensorFlow
 * [TensorFlow Deep MNIST for Experts](http://bit.ly/1L9IfJx) - Goes over Deep MNIST
 * [TensorFlow Udacity Deep Learning](https://www.youtube.com/watch?v=ReaxoSIM5XQ) - This video shows the very basic steps to get TensorFlow installed for free on the Cloud 9 online service with 1Gb of data.
+* [Why Google wants everyone to have access to Tensor Flow](http://video.foxnews.com/v/4611174773001/why-google-wants-everyone-to-have-access-to-tensorflow/?#sp=show-clips) 
+* [Videos from Tensor Flow Silicon Valley Meet Up 1/19/2016](http://blog.altoros.com/videos-from-tensorflow-silicon-valley-meetup-january-19-2016.html)
+* [Videos from Tensor Flow Silicon Valley Meet Up 1/21/2016](http://blog.altoros.com/videos-from-tensorflow-seattle-meetup-jan-21-2016.html)
 
 <a name="papers" />
 ##Papers
-*[TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf) - This paper describes the TensorFlow interface and an implementation of that interface that we have built at Google.
-*[]() - 
+* [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf) - This paper describes the TensorFlow interface and an implementation of that interface that we have built at Google.
 
+<a name="blogs" />
+##Blog posts
+* [TensorFlow: smarter machine learning, for everyone](https://googleblog.blogspot.com/2015/11/tensorflow-smarter-machine-learning-for.html) - An introduction to Tensor Flow
+* [Tensor Flow for Poets](http://petewarden.com/2016/02/28/tensorflow-for-poets/) - Goes over the implementation of Tensor Flow 
+* [The indico Machine Learning Team's take on Tensor Flow](https://indico.io/blog/indico-tensorflow/) 
 
 <a name="credits" />
 ## Credits
