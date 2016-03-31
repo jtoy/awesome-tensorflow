@@ -20,6 +20,7 @@ For a list of free machine learning books available for download, go [here](http
     - [Tutorials](#github-tutorials)
     - [TensorFlow Projects](#github-projects)
     - [Powered by TensorFlow](#github-powered-by)
+- [TensorFlow libraries](#libraries)
 - [Videos](#video)
 - [Papers](#papers)
 - [Blogposts](#blogs)
@@ -51,6 +52,10 @@ For a list of free machine learning books available for download, go [here](http
 <a name="github-powered-by" />
 #### Powered by TensorFlow
 * [YOLO Tensorflow](https://github.com/gliese581gg/YOLO_tensorflow) - tensorflow implementation of 'YOLO : Real-Time Object Detection'
+
+<a name="libraries" />
+*[skflow](https://github.com/tensorflow/skflow) - Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning
+
 
 <a name="video" />
 ##Videos
