@@ -27,7 +27,7 @@ For a list of free machine learning books available for download, go [here](http
 - [TensorFlow libraries](#libraries)
 - [Videos](#video)
 - [Papers](#papers)
-- [Blogposts](#blogs)
+- [Blog posts](#blogs)
 
 <!-- /MarkdownTOC -->
 
