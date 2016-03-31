@@ -44,6 +44,7 @@ For a list of free machine learning books available for download, go [here](http
 * [Neural Style](https://github.com/anishathalye/neural-style) - An implementation of neural style in TensorFlow.
 * [TensorFlow White Paper Notes](https://github.com/samjabrahams/tensorflow-white-paper-notes) - Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation
 * [NeuralArt](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of A Neural Algorithm of Artistic Style by Tensorflow.
+* [Deep-Q learning Pong with Tensorflow and PyGame](http://www.danielslater.net/2016/03/deep-q-learning-pong-with-tensorflow.html)
 * [Generative Handwriting Demo using TensorFlow](https://github.com/hardmaru/write-rnn-tensorflow) - An attempt to implement the random handwriting generation portion of Alex Graves' paper.
 * [Neural Turing Machine in Tensorflow](https://github.com/carpedm20/NTM-tensorflow) - Tensorflow implementation of Neural Turing Machine.
 
