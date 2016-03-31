@@ -16,10 +16,6 @@ For a list of free machine learning books available for download, go [here](http
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
-- [C](#c)
-    - [General-Purpose Machine Learning](#c-general-purpose)
-    - [Computer Vision](#c-computer-vision)
-    - [Swift General Purpose Machine Learning](#c-swift-general-purpose)
 - [Github](#github)
     - [Tutorials](#github-tutorials)
     - [TensorFlow Projects](#github-projects)
@@ -30,30 +26,6 @@ For a list of free machine learning books available for download, go [here](http
 
 <!-- /MarkdownTOC -->
 
-<a name="c" />
-## C
-
-<a name="c-general-purpose" />
-#### General-Purpose Machine Learning
-* [Recommender](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
-
-
-<a name="c-computer-vision" />
-#### Computer Vision
-
-* [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
-* [VLFeat](http://www.vlfeat.org/) - VLFeat is an open and portable library of computer vision algorithms, which has Matlab toolbox
-
-
-<a name="c-swift-general-purpose" />
-#### Swift General-Purpose Machine Learning
-
-* [Swift AI](https://github.com/collinhundley/Swift-AI) - Highly optimized artificial intelligence and machine learning library written in Swift.
-* [BrainCore](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework
-* [swix](https://github.com/scottsievert/swix) - A bare bones library that
-  includes a general matrix language and wraps some OpenCV for iOS development.
-* [DeepLearningKit](http://deeplearningkit.org/) an Open Source Deep Learning Framework for Apple’s iOS, OS X and tvOS.
-  It currently allows using deep convolutional neural network models trained in Caffe on Apple operating systems.
 
 <a name="github" />
 ## Github
