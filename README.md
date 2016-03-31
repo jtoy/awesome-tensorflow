@@ -2,7 +2,9 @@
 
 A curated list of awesome tensorflow experiments, libraries, and projects. Inspired by awesome-machine-learning.
 
+#What is TensorFLow
 
+TensorFlow is an open source software library for numerical computation using data flow graphs. In other words, the best way to build deep learning models.
 
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@jtoy](https://twitter.com/jtoy)
