@@ -69,6 +69,7 @@ For a list of free machine learning books available for download, go [here](http
 <a name="blogs" />
 ##Blog posts
 * [TensorFlow: smarter machine learning, for everyone](https://googleblog.blogspot.com/2015/11/tensorflow-smarter-machine-learning-for.html) - An introduction to Tensor Flow
+* [Why TensorFlow will change the Game for AI](http://www.somatic.io/blog/why-tensorflow-will-change-the-game-for-ai)
 * [Tensor Flow for Poets](http://petewarden.com/2016/02/28/tensorflow-for-poets/) - Goes over the implementation of Tensor Flow 
 * [The indico Machine Learning Team's take on Tensor Flow](https://indico.io/blog/indico-tensorflow/) 
 
