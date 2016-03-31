@@ -77,6 +77,7 @@ For a list of free machine learning books available for download, go [here](http
 <a name="papers" />
 ##Papers
 * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf) - This paper describes the TensorFlow interface and an implementation of that interface that we have built at Google.
+* [Comparative Study of Deep Learning Software Frameworks](http://arxiv.org/abs/1511.06435)
 * [Distributed TensorFlow with MPI](http://arxiv.org/abs/1603.02339) - In this paper, we extend recently proposed Google TensorFlow for execution on large scale clusters using Message Passing Interface (MPI).
 
 <a name="blogs" />
