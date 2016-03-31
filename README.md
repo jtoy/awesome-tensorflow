@@ -56,7 +56,7 @@ For a list of free machine learning books available for download, go [here](http
 
 <a name="libraries" />
 #### TensorFlow Libraries
-*[skflow](https://github.com/tensorflow/skflow) - Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning
+* [skflow](https://github.com/tensorflow/skflow) - Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning
 
 
 <a name="video" />
