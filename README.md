@@ -6,6 +6,8 @@ A curated list of awesome tensorflow experiments, libraries, and projects. Inspi
 
 TensorFlow is an open source software library for numerical computation using data flow graphs. In other words, the best way to build deep learning models.
 
+more info here: [http://tensorflow.org](http://tensorflow.org)
+
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@jtoy](https://twitter.com/jtoy)
 Also, when you noticed that listed repository should be deprecated.
