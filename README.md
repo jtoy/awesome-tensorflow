@@ -1,6 +1,6 @@
 # Awesome Tensorflow  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jtoy/awesome)
 
-A curated list of awesome tensorFlow experiments, libraries, and projects. Inspired by awesome-machine-learning.
+A curated list of awesome TensorFlow experiments, libraries, and projects. Inspired by awesome-machine-learning.
 
 ## What is TensorFLow
 
