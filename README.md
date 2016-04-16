@@ -92,7 +92,7 @@ Also, when you noticed that listed repository should be deprecated.
 * Repository's owner explicitly say that "this library is not maintained".
 * Not committed for long time (2~3 years).
  
-More info on the guidelines: http://github.com/jtoy/awesome-tensorflow/contributing.md
+More info on the guidelines: https://github.com/jtoy/awesome-tensorflow/blob/master/contributing.md
 
 
 <a name="credits" />
