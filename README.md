@@ -6,17 +6,9 @@ A curated list of awesome TensorFlow experiments, libraries, and projects. Inspi
 
 TensorFlow is an open source software library for numerical computation using data flow graphs. In other words, the best way to build deep learning models.
 
-more info here: [http://tensorflow.org](http://tensorflow.org)
+More info here: [http://tensorflow.org](http://tensorflow.org)
 
-## Contributions
 
-If you want to contribute to this list (please do), send me a pull request or contact me [@jtoy](https://twitter.com/jtoy)
-Also, when you noticed that listed repository should be deprecated.
-
-* Repository's owner explicitly say that "this library is not maintained".
-* Not committed for long time (2~3 years).
-
-For a list of free machine learning books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md). 
 
 ## Table of Contents
 
@@ -88,6 +80,20 @@ For a list of free machine learning books available for download, go [here](http
 * [Why TensorFlow will change the Game for AI](http://www.somatic.io/blog/why-tensorflow-will-change-the-game-for-ai)
 * [TensorFlow for Poets](http://petewarden.com/2016/02/28/tensorflow-for-poets) - Goes over the implementation of TensorFlow 
 * [The indico Machine Learning Team's take on TensorFlow](https://indico.io/blog/indico-tensorflow) 
+
+<a name="contributions" />
+## Contributions
+
+Your contributions are always welcome!
+
+If you want to contribute to this list (please do), send me a pull request or contact me [@jtoy](https://twitter.com/jtoy)
+Also, when you noticed that listed repository should be deprecated.
+
+* Repository's owner explicitly say that "this library is not maintained".
+* Not committed for long time (2~3 years).
+ 
+More info on the guidelines: http://github.com/jtoy/awesome-tensorflow/contributing.md
+
 
 <a name="credits" />
 ## Credits
