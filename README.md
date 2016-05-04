@@ -41,6 +41,7 @@ More info [here](http://tensorflow.org).
 * [Deep-Q learning Pong with TensorFlow and PyGame](http://www.danielslater.net/2016/03/deep-q-learning-pong-with-tensorflow.html)
 * [Generative Handwriting Demo using TensorFlow](https://github.com/hardmaru/write-rnn-tensorflow) - An attempt to implement the random handwriting generation portion of Alex Graves' paper
 * [Neural Turing Machine in TensorFlow](https://github.com/carpedm20/NTM-tensorflow) - implementation of Neural Turing Machine
+* [GoogleNet Convolutional Neural Network Groups Movie Scenes By Setting] (https://github.com/agermanidis/thingscoop) - searching, filter, and describe videos based on objects, places, and other things that appear in them
 
 
 <a name="github-powered-by" />
