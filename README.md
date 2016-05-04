@@ -52,7 +52,7 @@ More info [here](http://tensorflow.org).
 ## Libraries
 * [skflow](https://github.com/tensorflow/skflow) - Simplified interface (mimicking Scikit Learn) for Deep Learning
 * [tflearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API 
-
+* [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/inception/inception/slim) - High-level library for defining models
 
 <a name="video" />
 ##Videos
