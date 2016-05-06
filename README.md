@@ -50,7 +50,7 @@ More info [here](http://tensorflow.org).
 
 <a name="libraries" />
 ## Libraries
-* [skflow](https://github.com/tensorflow/skflow) - Simplified interface (mimicking Scikit Learn) for Deep Learning
+* [skflow](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) - Simplified interface (mimicking Scikit Learn) for Deep Learning (now part of TensorFlow as TF Learn Module)
 * [tflearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API 
 
 
@@ -77,7 +77,8 @@ More info [here](http://tensorflow.org).
 ##Blog posts
 * [TensorFlow: smarter machine learning, for everyone](https://googleblog.blogspot.com/2015/11/tensorflow-smarter-machine-learning-for.html) - An introduction to TensorFlow
 * [Why TensorFlow will change the Game for AI](http://www.somatic.io/blog/why-tensorflow-will-change-the-game-for-ai)
-* [TensorFlow for Poets](http://petewarden.com/2016/02/28/tensorflow-for-poets) - Goes over the implementation of TensorFlow 
+* [TensorFlow for Poets](http://petewarden.com/2016/02/28/tensorflow-for-poets) - Goes over the implementation of TensorFlow
+* [Introduction to Scikit Flow - Simplified Interface to TensorFlow](http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/) - Key Features Illustrated
 * [The indico Machine Learning Team's take on TensorFlow](https://indico.io/blog/indico-tensorflow) 
 
 
