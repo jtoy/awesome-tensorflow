@@ -21,6 +21,7 @@ More info [here](http://tensorflow.org).
 - [Papers](#papers)
 - [Blog posts](#blogs)
 - [Community](#community)
+- [Books](#books)
 
 <!-- /MarkdownTOC -->
 
@@ -92,6 +93,11 @@ More info [here](http://tensorflow.org).
 * [@TensorFlo on Twitter](https://twitter.com/TensorFlo)
 * [Reddit](https://www.reddit.com/r/tensorflow)
 * [Mailing List](https://groups.google.com/a/tensorflow.org/forum/#!forum/discuss)
+
+
+<a name="books" />
+## Books
+* [First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/)
 
 
 <a name="contributions" />
