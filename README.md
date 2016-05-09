@@ -43,7 +43,6 @@ More info [here](http://tensorflow.org).
 * [Generative Handwriting Demo using TensorFlow](https://github.com/hardmaru/write-rnn-tensorflow) - An attempt to implement the random handwriting generation portion of Alex Graves' paper
 * [Neural Turing Machine in TensorFlow](https://github.com/carpedm20/NTM-tensorflow) - implementation of Neural Turing Machine
 * [GoogleNet Convolutional Neural Network Groups Movie Scenes By Setting] (https://github.com/agermanidis/thingscoop) - Search, filter, and describe videos based on objects, places, and other things that appear in them
-* [Let there be Color! Automatic Colorization of Grayscale Images] (https://github.com/satoshiiizuka/siggraph2016_colorization) - A novel technique to automatically colorize grayscale images that combines both global priors and local image features
 * [Composing Music With Recurrent Neural Networks (Biaxial RNN)](https://github.com/hexahedria/biaxial-rnn-music-composition) - A recurrent neural network trained to generate classical music
 * [Neural Image Annalogies] (https://github.com/awentzonline/image-analogies) - An amazing technique that observes one transformation and applies what it observed to transform a target image.
 * [Neural machine translation between the writings of Shakespeare and modern English using TensorFlow](https://github.com/tokestermw/tensorflow-shakespeare) - This performs a monolingual translation, going from modern English to Shakespeare and vis-versa.
