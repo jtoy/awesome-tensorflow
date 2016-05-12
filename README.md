@@ -21,6 +21,7 @@ More info [here](http://tensorflow.org).
 - [Papers](#papers)
 - [Blog posts](#blogs)
 - [Community](#community)
+- [Books](#books)
 
 <!-- /MarkdownTOC -->
 
@@ -40,13 +41,15 @@ More info [here](http://tensorflow.org).
 * [NeuralArt](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of A Neural Algorithm of Artistic Style 
 * [Deep-Q learning Pong with TensorFlow and PyGame](http://www.danielslater.net/2016/03/deep-q-learning-pong-with-tensorflow.html)
 * [Generative Handwriting Demo using TensorFlow](https://github.com/hardmaru/write-rnn-tensorflow) - An attempt to implement the random handwriting generation portion of Alex Graves' paper
-* [Neural Turing Machine in TensorFlow](https://github.com/carpedm20/NTM-tensorflow) - Implementation of Neural Turing Machine
+* [Neural Turing Machine in TensorFlow](https://github.com/carpedm20/NTM-tensorflow) - implementation of Neural Turing Machine
+* [GoogleNet Convolutional Neural Network Groups Movie Scenes By Setting] (https://github.com/agermanidis/thingscoop) - Search, filter, and describe videos based on objects, places, and other things that appear in them
+* [Neural machine translation between the writings of Shakespeare and modern English using TensorFlow](https://github.com/tokestermw/tensorflow-shakespeare) - This performs a monolingual translation, going from modern English to Shakespeare and vis-versa.
+* [Colornet - Neural Network to colorize grayscale images] (https://github.com/pavelgonchar/colornet) - Neural Network to colorize grayscale images
 * [Neural Caption Generator](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show and Tell"](http://arxiv.org/abs/1411.4555)
 * [Neural Caption Generator with Attention](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show, Attend and Tell"](http://arxiv.org/abs/1502.03044)
 * [Weakly_detector](https://github.com/jazzsaxmafia/Weakly_detector) - Implementation of ["Learning Deep Features for Discriminative Localization"](http://cnnlocalization.csail.mit.edu/)
 * [Dynamic Capacity Networks](https://github.com/jazzsaxmafia/dcn.tf) - Implementation of ["Dynamic Capacity Networks"](http://arxiv.org/abs/1511.07838)
 * [HMM in TensorFlow](https://github.com/dwiel/tensorflow_hmm) - Implementation of viterbi and forward/backward algorithms for HMM
-
 
 <a name="github-powered-by" />
 ## Powered by TensorFlow
@@ -55,10 +58,10 @@ More info [here](http://tensorflow.org).
 
 <a name="libraries" />
 ## Libraries
-* [skflow](https://github.com/tensorflow/skflow) - Simplified interface (mimicking Scikit Learn) for Deep Learning
+* [skflow](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) - Simplified interface (mimicking Scikit Learn) for Deep Learning (now part of TensorFlow as TF Learn Module)
 * [tflearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API 
+* [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/inception/inception/slim) - High-level library for defining models
 * [caffe-tensorflow](https://github.com/ethereon/caffe-tensorflow) - Convert Caffe models to TensorFlow format
-
 
 <a name="video" />
 ##Videos
@@ -83,7 +86,8 @@ More info [here](http://tensorflow.org).
 ##Blog posts
 * [TensorFlow: smarter machine learning, for everyone](https://googleblog.blogspot.com/2015/11/tensorflow-smarter-machine-learning-for.html) - An introduction to TensorFlow
 * [Why TensorFlow will change the Game for AI](http://www.somatic.io/blog/why-tensorflow-will-change-the-game-for-ai)
-* [TensorFlow for Poets](http://petewarden.com/2016/02/28/tensorflow-for-poets) - Goes over the implementation of TensorFlow 
+* [TensorFlow for Poets](http://petewarden.com/2016/02/28/tensorflow-for-poets) - Goes over the implementation of TensorFlow
+* [Introduction to Scikit Flow - Simplified Interface to TensorFlow](http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/) - Key Features Illustrated
 * [The indico Machine Learning Team's take on TensorFlow](https://indico.io/blog/indico-tensorflow) 
 
 
@@ -93,6 +97,11 @@ More info [here](http://tensorflow.org).
 * [@TensorFlo on Twitter](https://twitter.com/TensorFlo)
 * [Reddit](https://www.reddit.com/r/tensorflow)
 * [Mailing List](https://groups.google.com/a/tensorflow.org/forum/#!forum/discuss)
+
+
+<a name="books" />
+## Books
+* [First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/)
 
 
 <a name="contributions" />
