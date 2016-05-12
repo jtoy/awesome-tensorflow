@@ -62,6 +62,7 @@ More info [here](http://tensorflow.org).
 * [tflearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API 
 * [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/inception/inception/slim) - High-level library for defining models
 * [caffe-tensorflow](https://github.com/ethereon/caffe-tensorflow) - Convert Caffe models to TensorFlow format
+* [keras](http://keras.io) - Minimal, modular deep learning library for TensorFlow and Theano
 
 <a name="video" />
 ##Videos
