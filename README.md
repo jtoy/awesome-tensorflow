@@ -97,7 +97,8 @@ More info [here](http://tensorflow.org).
 * [Why TensorFlow will change the Game for AI](http://www.somatic.io/blog/why-tensorflow-will-change-the-game-for-ai)
 * [TensorFlow for Poets](http://petewarden.com/2016/02/28/tensorflow-for-poets) - Goes over the implementation of TensorFlow
 * [Introduction to Scikit Flow - Simplified Interface to TensorFlow](http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/) - Key Features Illustrated
-* [The indico Machine Learning Team's take on TensorFlow](https://indico.io/blog/indico-tensorflow) 
+* [The indico Machine Learning Team's take on TensorFlow](https://indico.io/blog/indico-tensorflow)
+* [Easy TensorFlow Model Training on AWS](http://www.bitfusion.io/2016/05/09/easy-tensorflow-model-training-aws/) - Includes AWS Marketplace AMI link for getting started quickly
 
 
 <a name="community" />
