@@ -62,6 +62,7 @@ More info [here](http://tensorflow.org).
 * [skflow](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) - Simplified interface (mimicking Scikit Learn) for Deep Learning (now part of TensorFlow as TF Learn Module)
 * [tflearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API 
 * [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/inception/inception/slim) - High-level library for defining models
+* [TensorFrames](https://github.com/tjhunter/tensorframes) - TensorFlow binding for Apache Spark
 * [caffe-tensorflow](https://github.com/ethereon/caffe-tensorflow) - Convert Caffe models to TensorFlow format
 * [keras](http://keras.io) - Minimal, modular deep learning library for TensorFlow and Theano
 * [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
