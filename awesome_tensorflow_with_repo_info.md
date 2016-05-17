@@ -20,38 +20,38 @@ Table of Contents
 Tutorials
 ---------
 
--   [TensorFlow Tutorial 1](https://github.com/pkmital/tensorflow_tutorials) <span> ★ 2111, pushed 4 days ago </span> - From the basics to slightly more interesting applications of TensorFlow
--   [TensorFlow Tutorial 2](https://github.com/nlintz/TensorFlow-Tutorials) <span> ★ 1854, pushed 19 days ago </span> - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano
--   [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) <span> ★ 2269, pushed 29 days ago </span> - TensorFlow tutorials and code examples for beginners
+-   [TensorFlow Tutorial 1](https://github.com/pkmital/tensorflow_tutorials) <span> ★ 2132, pushed 7 days ago </span> - From the basics to slightly more interesting applications of TensorFlow
+-   [TensorFlow Tutorial 2](https://github.com/nlintz/TensorFlow-Tutorials) <span> ★ 1873, pushed 22 days ago </span> - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano
+-   [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) <span> ★ 2302, pushed 32 days ago </span> - TensorFlow tutorials and code examples for beginners
 
 []()
 
 Models/Projects
 ---------------
 
--   [Pretty Tensor](https://github.com/google/prettytensor) <span> ★ 557, pushed 29 days ago </span> - Pretty Tensor provides a high level builder API
--   [Neural Style](https://github.com/anishathalye/neural-style) <span> ★ 580, pushed 1 days ago </span> - An implementation of neural style
--   [TensorFlow White Paper Notes](https://github.com/samjabrahams/tensorflow-white-paper-notes) <span> ★ 176, pushed 66 days ago </span> - Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation
--   [NeuralArt](https://github.com/ckmarkoh/neuralart_tensorflow) <span> ★ 185, pushed 150 days ago </span> - Implementation of A Neural Algorithm of Artistic Style
+-   [Pretty Tensor](https://github.com/google/prettytensor) <span> ★ 559, pushed 32 days ago </span> - Pretty Tensor provides a high level builder API
+-   [Neural Style](https://github.com/anishathalye/neural-style) <span> ★ 585, pushed 0 days ago </span> - An implementation of neural style
+-   [TensorFlow White Paper Notes](https://github.com/samjabrahams/tensorflow-white-paper-notes) <span> ★ 180, pushed 69 days ago </span> - Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation
+-   [NeuralArt](https://github.com/ckmarkoh/neuralart_tensorflow) <span> ★ 185, pushed 153 days ago </span> - Implementation of A Neural Algorithm of Artistic Style
 -   [Deep-Q learning Pong with TensorFlow and PyGame](http://www.danielslater.net/2016/03/deep-q-learning-pong-with-tensorflow.html)
--   [Generative Handwriting Demo using TensorFlow](https://github.com/hardmaru/write-rnn-tensorflow) <span> ★ 164, pushed 53 days ago </span> - An attempt to implement the random handwriting generation portion of Alex Graves' paper
--   [Neural Turing Machine in TensorFlow](https://github.com/carpedm20/NTM-tensorflow) - implementation of Neural Turing Machine
--   [GoogleNet Convolutional Neural Network Groups Movie Scenes By Setting](https://github.com/agermanidis/thingscoop) <span> ★ 169, pushed 2 days ago </span> - Search, filter, and describe videos based on objects, places, and other things that appear in them
--   [Neural machine translation between the writings of Shakespeare and modern English using TensorFlow](https://github.com/tokestermw/tensorflow-shakespeare) <span> ★ 58, pushed 65 days ago </span> - This performs a monolingual translation, going from modern English to Shakespeare and vis-versa.
--   [Colornet - Neural Network to colorize grayscale images](https://github.com/pavelgonchar/colornet) <span> ★ 2676, pushed 15 days ago </span> - Neural Network to colorize grayscale images
--   [Neural Caption Generator](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) <span> ★ 83, pushed 124 days ago </span> - Implementation of ["Show and Tell"](http://arxiv.org/abs/1411.4555)
--   [Neural Caption Generator with Attention](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) <span> ★ 83, pushed 124 days ago </span> - Implementation of ["Show, Attend and Tell"](http://arxiv.org/abs/1502.03044)
--   [Weakly\_detector](https://github.com/jazzsaxmafia/Weakly_detector) <span> ★ 83, pushed 31 days ago </span> - Implementation of ["Learning Deep Features for Discriminative Localization"](http://cnnlocalization.csail.mit.edu/)
--   [Dynamic Capacity Networks](https://github.com/jazzsaxmafia/dcn.tf) <span> ★ 0, pushed 10 days ago </span> - Implementation of ["Dynamic Capacity Networks"](http://arxiv.org/abs/1511.07838)
--   [HMM in TensorFlow](https://github.com/dwiel/tensorflow_hmm) <span> ★ 61, pushed 23 days ago </span> - Implementation of viterbi and forward/backward algorithms for HMM
--   [DeepOSM](https://github.com/trailbehind/DeepOSM) <span> ★ 89, pushed 0 days ago </span> - Train TensorFlow neural nets with OpenStreetMap features and satellite imagery.
+-   [Generative Handwriting Demo using TensorFlow](https://github.com/hardmaru/write-rnn-tensorflow) <span> ★ 165, pushed 56 days ago </span> - An attempt to implement the random handwriting generation portion of Alex Graves' paper
+-   [Neural Turing Machine in TensorFlow](https://github.com/carpedm20/NTM-tensorflow) <span> ★ 280, pushed 102 days ago </span> - implementation of Neural Turing Machine
+-   [GoogleNet Convolutional Neural Network Groups Movie Scenes By Setting](https://github.com/agermanidis/thingscoop) <span> ★ 169, pushed 5 days ago </span> - Search, filter, and describe videos based on objects, places, and other things that appear in them
+-   [Neural machine translation between the writings of Shakespeare and modern English using TensorFlow](https://github.com/tokestermw/tensorflow-shakespeare) <span> ★ 58, pushed 68 days ago </span> - This performs a monolingual translation, going from modern English to Shakespeare and vis-versa.
+-   [Colornet - Neural Network to colorize grayscale images](https://github.com/pavelgonchar/colornet) <span> ★ 2681, pushed 18 days ago </span> - Neural Network to colorize grayscale images
+-   [Neural Caption Generator](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show and Tell"](http://arxiv.org/abs/1411.4555)
+-   [Neural Caption Generator with Attention](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show, Attend and Tell"](http://arxiv.org/abs/1502.03044)
+-   [Weakly\_detector](https://github.com/jazzsaxmafia/Weakly_detector) <span> ★ 83, pushed 34 days ago </span> - Implementation of ["Learning Deep Features for Discriminative Localization"](http://cnnlocalization.csail.mit.edu/)
+-   [Dynamic Capacity Networks](https://github.com/jazzsaxmafia/dcn.tf) <span> ★ 0, pushed 13 days ago </span> - Implementation of ["Dynamic Capacity Networks"](http://arxiv.org/abs/1511.07838)
+-   [HMM in TensorFlow](https://github.com/dwiel/tensorflow_hmm) <span> ★ 61, pushed 26 days ago </span> - Implementation of viterbi and forward/backward algorithms for HMM
+-   [DeepOSM](https://github.com/trailbehind/DeepOSM) <span> ★ 103, pushed 0 days ago </span> - Train TensorFlow neural nets with OpenStreetMap features and satellite imagery.
 
 []()
 
 Powered by TensorFlow
 ---------------------
 
--   [YOLO TensorFlow](https://github.com/gliese581gg/YOLO_tensorflow) <span> ★ 88, pushed 87 days ago </span> - Implementation of 'YOLO : Real-Time Object Detection'
+-   [YOLO TensorFlow](https://github.com/gliese581gg/YOLO_tensorflow) <span> ★ 92, pushed 90 days ago </span> - Implementation of 'YOLO : Real-Time Object Detection'
 
 []()
 
@@ -59,9 +59,10 @@ Libraries
 ---------
 
 -   [skflow](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) - Simplified interface (mimicking Scikit Learn) for Deep Learning (now part of TensorFlow as TF Learn Module)
--   [tflearn](https://github.com/tflearn/tflearn) <span> ★ 2650, pushed 0 days ago </span> - Deep learning library featuring a higher-level API
+-   [tflearn](https://github.com/tflearn/tflearn) <span> ★ 2662, pushed 0 days ago </span> - Deep learning library featuring a higher-level API
 -   [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/inception/inception/slim) - High-level library for defining models
--   [caffe-tensorflow](https://github.com/ethereon/caffe-tensorflow) <span> ★ 300, pushed 11 days ago </span> - Convert Caffe models to TensorFlow format
+-   [TensorFrames](https://github.com/tjhunter/tensorframes) <span> ★ 16, pushed 0 days ago </span> - TensorFlow binding for Apache Spark
+-   [caffe-tensorflow](https://github.com/ethereon/caffe-tensorflow) <span> ★ 306, pushed 0 days ago </span> - Convert Caffe models to TensorFlow format
 -   [keras](http://keras.io) - Minimal, modular deep learning library for TensorFlow and Theano
 -   [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
 
@@ -78,6 +79,7 @@ Videos
 -   [Why Google wants everyone to have access to TensorFlow](http://video.foxnews.com/v/4611174773001/why-google-wants-everyone-to-have-access-to-tensorflow/?#sp=show-clips)
 -   [Videos from TensorFlow Silicon Valley Meet Up 1/19/2016](http://blog.altoros.com/videos-from-tensorflow-silicon-valley-meetup-january-19-2016.html)
 -   [Videos from TensorFlow Silicon Valley Meet Up 1/21/2016](http://blog.altoros.com/videos-from-tensorflow-seattle-meetup-jan-21-2016.html)
+-   [Stanford CS224d Lecture 7 - Introduction to TensorFlow, 19th Apr 2016](https://www.youtube.com/watch?v=L8Y2_Cq2X5s&index=7&list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam) - CS224d Deep Learning for Natural Language Processing by Richard Socher
 
 []()
 
@@ -104,6 +106,7 @@ Blog posts
 -   [TensorFlow for Poets](http://petewarden.com/2016/02/28/tensorflow-for-poets) - Goes over the implementation of TensorFlow
 -   [Introduction to Scikit Flow - Simplified Interface to TensorFlow](http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/) - Key Features Illustrated
 -   [The indico Machine Learning Team's take on TensorFlow](https://indico.io/blog/indico-tensorflow)
+-   [The Good, Bad, & Ugly of TensorFlow](https://indico.io/blog/the-good-bad-ugly-of-tensorflow/) - A survey of six months rapid evolution (+ tips/hacks and code to fix the ugly stuff), Dan Kuster at Indico, May 9, 2016
 
 []()
 
@@ -141,6 +144,6 @@ More info on the [guidelines](https://github.com/jtoy/awesome-tensorflow/blob/ma
 Credits
 -------
 
--   Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python) <span> ★ 20729, pushed 0 days ago </span>
+-   Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python) <span> ★ 20826, pushed 0 days ago </span>
 -   The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
 
