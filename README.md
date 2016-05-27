@@ -51,6 +51,7 @@ More info [here](http://tensorflow.org).
 * [Dynamic Capacity Networks](https://github.com/jazzsaxmafia/dcn.tf) - Implementation of ["Dynamic Capacity Networks"](http://arxiv.org/abs/1511.07838)
 * [HMM in TensorFlow](https://github.com/dwiel/tensorflow_hmm) - Implementation of viterbi and forward/backward algorithms for HMM
 * [DeepOSM](https://github.com/trailbehind/DeepOSM) - Train TensorFlow neural nets with OpenStreetMap features and satellite imagery.
+* [DQN-tensorflow](https://github.com/devsisters/DQN-tensorflow) - Tensorflow implementation of DeepMind's 'Human-Level Control through Deep Reinforcement Learning' with OpenAI Gym by Devsisters.com
 
 <a name="github-powered-by" />
 ## Powered by TensorFlow
@@ -62,6 +63,7 @@ More info [here](http://tensorflow.org).
 * [skflow](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) - Simplified interface (mimicking Scikit Learn) for Deep Learning (now part of TensorFlow as TF Learn Module)
 * [tflearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API 
 * [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/inception/inception/slim) - High-level library for defining models
+* [TensorFrames](https://github.com/tjhunter/tensorframes) - TensorFlow binding for Apache Spark
 * [caffe-tensorflow](https://github.com/ethereon/caffe-tensorflow) - Convert Caffe models to TensorFlow format
 * [keras](http://keras.io) - Minimal, modular deep learning library for TensorFlow and Theano
 * [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
@@ -76,6 +78,7 @@ More info [here](http://tensorflow.org).
 * [Why Google wants everyone to have access to TensorFlow](http://video.foxnews.com/v/4611174773001/why-google-wants-everyone-to-have-access-to-tensorflow/?#sp=show-clips) 
 * [Videos from TensorFlow Silicon Valley Meet Up 1/19/2016](http://blog.altoros.com/videos-from-tensorflow-silicon-valley-meetup-january-19-2016.html)
 * [Videos from TensorFlow Silicon Valley Meet Up 1/21/2016](http://blog.altoros.com/videos-from-tensorflow-seattle-meetup-jan-21-2016.html)
+* [Stanford CS224d Lecture 7 - Introduction to TensorFlow, 19th Apr 2016](https://www.youtube.com/watch?v=L8Y2_Cq2X5s&index=7&list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam) - CS224d Deep Learning for Natural Language Processing by Richard Socher
 
 
 <a name="papers" />
@@ -96,7 +99,8 @@ More info [here](http://tensorflow.org).
 * [Why TensorFlow will change the Game for AI](http://www.somatic.io/blog/why-tensorflow-will-change-the-game-for-ai)
 * [TensorFlow for Poets](http://petewarden.com/2016/02/28/tensorflow-for-poets) - Goes over the implementation of TensorFlow
 * [Introduction to Scikit Flow - Simplified Interface to TensorFlow](http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/) - Key Features Illustrated
-* [The indico Machine Learning Team's take on TensorFlow](https://indico.io/blog/indico-tensorflow)
+* [The indico Machine Learning Team's take on TensorFlow](https://indico.io/blog/indico-tensorflow) 
+* [The Good, Bad, & Ugly of TensorFlow](https://indico.io/blog/the-good-bad-ugly-of-tensorflow/) - A survey of six months rapid evolution (+ tips/hacks and code to fix the ugly stuff), Dan Kuster at Indico, May 9, 2016
 * [Easy TensorFlow Model Training on AWS](http://www.bitfusion.io/2016/05/09/easy-tensorflow-model-training-aws/) - Includes AWS Marketplace AMI link for getting started quickly
 
 
@@ -110,7 +114,8 @@ More info [here](http://tensorflow.org).
 
 <a name="books" />
 ## Books
-* [First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/)
+* [First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/) by Jordi Torres, professor at UPC Barcelona Tech and a research manager and senior advisor at Barcelona Supercomputing Center
+* [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) - Develop Deep Learning Models on Theano and TensorFlow Using Keras by Jason Brownlee
 
 
 <a name="contributions" />
