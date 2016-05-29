@@ -101,7 +101,8 @@ More info [here](http://tensorflow.org).
 * [Introduction to Scikit Flow - Simplified Interface to TensorFlow](http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/) - Key Features Illustrated
 * [The indico Machine Learning Team's take on TensorFlow](https://indico.io/blog/indico-tensorflow) 
 * [The Good, Bad, & Ugly of TensorFlow](https://indico.io/blog/the-good-bad-ugly-of-tensorflow/) - A survey of six months rapid evolution (+ tips/hacks and code to fix the ugly stuff), Dan Kuster at Indico, May 9, 2016
-
+* [The Basic Workflow of Tensorflow Codes](http://terryum.io/ml_practice/2016/04/25/TF-Code-Structure/) - A breif explanation of the basic structure of Tensorflow codes for very beginners
+* [Implementing a CNN for text classification in Tensorflow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/) - An implementation for the paper, "Convolutional Neural Networks for Sentence Classification (Y. Kim, 2014)"
 
 <a name="community" />
 ## Community
