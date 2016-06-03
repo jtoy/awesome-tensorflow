@@ -31,6 +31,9 @@ More info [here](http://tensorflow.org).
 * [TensorFlow Tutorial 1](https://github.com/pkmital/tensorflow_tutorials) - From the basics to slightly more interesting applications of TensorFlow
 * [TensorFlow Tutorial 2](https://github.com/nlintz/TensorFlow-Tutorials) - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano 
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow tutorials and code examples for beginners
+* [Sungjoon's TensorFlow-101](https://github.com/sjchoi86/Tensorflow-101) - TensorFlow tutorials written in pyhton with Jupyter Notebook
+* [Terry Um’s TensorFlow Exercises](https://github.com/terryum/TensorFlow_Exercises) - Re-create the codes from other TensorFlow examples
+* [Installing TensorFlow on Raspberry Pi 3](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) - TensorFlow compiled and running properly on the Raspberry Pi
 
 
 <a name="github-projects" />
@@ -51,6 +54,7 @@ More info [here](http://tensorflow.org).
 * [Dynamic Capacity Networks](https://github.com/jazzsaxmafia/dcn.tf) - Implementation of ["Dynamic Capacity Networks"](http://arxiv.org/abs/1511.07838)
 * [HMM in TensorFlow](https://github.com/dwiel/tensorflow_hmm) - Implementation of viterbi and forward/backward algorithms for HMM
 * [DeepOSM](https://github.com/trailbehind/DeepOSM) - Train TensorFlow neural nets with OpenStreetMap features and satellite imagery.
+* [DQN-tensorflow](https://github.com/devsisters/DQN-tensorflow) - Tensorflow implementation of DeepMind's 'Human-Level Control through Deep Reinforcement Learning' with OpenAI Gym by Devsisters.com
 
 <a name="github-powered-by" />
 ## Powered by TensorFlow
@@ -62,6 +66,7 @@ More info [here](http://tensorflow.org).
 * [skflow](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) - Simplified interface (mimicking Scikit Learn) for Deep Learning (now part of TensorFlow as TF Learn Module)
 * [tflearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API 
 * [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/inception/inception/slim) - High-level library for defining models
+* [TensorFrames](https://github.com/tjhunter/tensorframes) - TensorFlow binding for Apache Spark
 * [caffe-tensorflow](https://github.com/ethereon/caffe-tensorflow) - Convert Caffe models to TensorFlow format
 * [keras](http://keras.io) - Minimal, modular deep learning library for TensorFlow and Theano
 * [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
@@ -85,6 +90,7 @@ More info [here](http://tensorflow.org).
 * [Comparative Study of Deep Learning Software Frameworks](http://arxiv.org/abs/1511.06435) - The study is performed on several types of deep learning architectures and we evaluate the performance of the above frameworks when employed on a single machine for both (multi-threaded) CPU and GPU (Nvidia Titan X) settings
 * [Distributed TensorFlow with MPI](http://arxiv.org/abs/1603.02339) - In this paper, we extend recently proposed Google TensorFlow for execution on large scale clusters using Message Passing Interface (MPI)
 * [Globally Normalized Transition-Based Neural Networks](http://arxiv.org/abs/1603.06042) - This paper describes the models behind [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet).
+* [TensorFlow: A system for large-scale machine learning](https://arxiv.org/abs/1605.08695) - This paper describes the TensorFlow dataflow model in contrast to existing systems, and demonstrate the compelling performance
 
 <a name="blogs" />
 
@@ -98,6 +104,8 @@ More info [here](http://tensorflow.org).
 * [TensorFlow for Poets](http://petewarden.com/2016/02/28/tensorflow-for-poets) - Goes over the implementation of TensorFlow
 * [Introduction to Scikit Flow - Simplified Interface to TensorFlow](http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/) - Key Features Illustrated
 * [The indico Machine Learning Team's take on TensorFlow](https://indico.io/blog/indico-tensorflow) 
+* [The Good, Bad, & Ugly of TensorFlow](https://indico.io/blog/the-good-bad-ugly-of-tensorflow/) - A survey of six months rapid evolution (+ tips/hacks and code to fix the ugly stuff), Dan Kuster at Indico, May 9, 2016
+* [Fizz Buzz in TensorFlow](http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/) - A joke by Jeol Grus
 
 
 <a name="community" />
@@ -110,7 +118,8 @@ More info [here](http://tensorflow.org).
 
 <a name="books" />
 ## Books
-* [First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/)
+* [First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/) by Jordi Torres, professor at UPC Barcelona Tech and a research manager and senior advisor at Barcelona Supercomputing Center
+* [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) - Develop Deep Learning Models on Theano and TensorFlow Using Keras by Jason Brownlee
 
 
 <a name="contributions" />
