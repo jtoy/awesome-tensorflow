@@ -55,6 +55,8 @@ More info [here](http://tensorflow.org).
 * [HMM in TensorFlow](https://github.com/dwiel/tensorflow_hmm) - Implementation of viterbi and forward/backward algorithms for HMM
 * [DeepOSM](https://github.com/trailbehind/DeepOSM) - Train TensorFlow neural nets with OpenStreetMap features and satellite imagery.
 * [DQN-tensorflow](https://github.com/devsisters/DQN-tensorflow) - Tensorflow implementation of DeepMind's 'Human-Level Control through Deep Reinforcement Learning' with OpenAI Gym by Devsisters.com
+* [Highway Network](https://github.com/fomorians/highway-cnn) - Tensorflow implementation of ["Training Very Deep Networks"](http://arxiv.org/abs/1507.06228) with a [blog post](https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.ndicn1i27)
+* [Sentence Classification with CNN](https://github.com/dennybritz/cnn-text-classification-tf) - Tensorflow implementation of ["Convolutional Neural Networks for Sentence Classification"](http://arxiv.org/abs/1408.5882) with a [blog post](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 
 <a name="github-powered-by" />
 ## Powered by TensorFlow
