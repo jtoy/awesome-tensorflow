@@ -31,6 +31,7 @@ More info [here](http://tensorflow.org).
 * [TensorFlow Tutorial 1](https://github.com/pkmital/tensorflow_tutorials) - From the basics to slightly more interesting applications of TensorFlow
 * [TensorFlow Tutorial 2](https://github.com/nlintz/TensorFlow-Tutorials) - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano 
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow tutorials and code examples for beginners
+* [TensorFlow WorkLab](https://github.com/sdemyanov/tensorflow-worklab) - a convienient set of classes a scripts to work with Tensorflow
 * [Sungjoon's TensorFlow-101](https://github.com/sjchoi86/Tensorflow-101) - TensorFlow tutorials written in pyhton with Jupyter Notebook
 * [Terry Um’s TensorFlow Exercises](https://github.com/terryum/TensorFlow_Exercises) - Re-create the codes from other TensorFlow examples
 * [Installing TensorFlow on Raspberry Pi 3](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) - TensorFlow compiled and running properly on the Raspberry Pi
