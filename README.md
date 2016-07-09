@@ -108,6 +108,7 @@ More info [here](http://tensorflow.org).
 * [Why TensorFlow will change the Game for AI](http://www.somatic.io/blog/why-tensorflow-will-change-the-game-for-ai)
 * [TensorFlow for Poets](http://petewarden.com/2016/02/28/tensorflow-for-poets) - Goes over the implementation of TensorFlow
 * [Introduction to Scikit Flow - Simplified Interface to TensorFlow](http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/) - Key Features Illustrated
+* [Building Machine Learning Estimator in TensorFlow](http://terrytangyuan.github.io/2016/07/08/understand-and-build-tensorflow-estimator/) - Understanding the Internals of TensorFlow Learn Estimators
 * [The indico Machine Learning Team's take on TensorFlow](https://indico.io/blog/indico-tensorflow) 
 * [The Good, Bad, & Ugly of TensorFlow](https://indico.io/blog/the-good-bad-ugly-of-tensorflow/) - A survey of six months rapid evolution (+ tips/hacks and code to fix the ugly stuff), Dan Kuster at Indico, May 9, 2016
 * [Fizz Buzz in TensorFlow](http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/) - A joke by Joel Grus
