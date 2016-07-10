@@ -66,7 +66,7 @@ More info [here](http://tensorflow.org).
 
 <a name="libraries" />
 ## Libraries
-* [skflow](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) - Simplified interface (mimicking Scikit Learn) for Deep Learning (now part of TensorFlow as TF Learn Module)
+* [Scikit Flow (TF Learn)](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) - Simplified interface for Deep/Machine Learning (now part of TensorFlow)
 * [tflearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API 
 * [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/inception/inception/slim) - High-level library for defining models
 * [TensorFrames](https://github.com/tjhunter/tensorframes) - TensorFlow binding for Apache Spark
