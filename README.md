@@ -88,6 +88,9 @@ More info [here](http://tensorflow.org).
 * [Diving into Machine Learning through TensorFlow](https://youtu.be/GZBIPwdGtkk?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W) - Pycon 2016 Portland Oregon, [Slide](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf) & [Code](https://github.com/amygdala/tensorflow-workshop) by Julia Ferraioli, Amy Unruh, Eli Bixby
 * [Large Scale Deep Learning with TensorFlow](https://youtu.be/XYwIDn00PAo) - Spark Summit 2016 Keynote by Jeff Dean
 
+<a name="courses" />
+##Courses
+* [Creative Applications of Deep Learning with Tensorflow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i/info) - by Parag Mital in Kadenze
 
 <a name="papers" />
 ##Papers
