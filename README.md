@@ -18,6 +18,7 @@ More info [here](http://tensorflow.org).
 - [Powered by TensorFlow](#github-powered-by)
 - [Libraries](#libraries)
 - [Videos](#video)
+- [Courses](#courses)
 - [Papers](#papers)
 - [Blog posts](#blogs)
 - [Community](#community)
