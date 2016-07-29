@@ -124,9 +124,9 @@ More info [here](http://tensorflow.org).
 
 <a name="books" />
 ## Books
-* [First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/) by Jordi Torres, professor at UPC Barcelona Tech and a research manager and senior advisor at Barcelona Supercomputing Center
-* [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) - Develop Deep Learning Models on Theano and TensorFlow Using Keras by Jason Brownlee
-
+* [First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow) by Jordi Torres, professor at UPC Barcelona Tech and a research manager and senior advisor at Barcelona Supercomputing Center
+* [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python) Develop Deep Learning Models on Theano and TensorFlow Using Keras by Jason Brownlee
+* [TensorFlow for Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence) This is a hands-on introduction to learning algorithms, and as one reviewer said, "Finally, a TensorFlow book for humans." 
 
 <a name="contributions" />
 ## Contributions
