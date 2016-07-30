@@ -57,6 +57,7 @@ More info [here](http://tensorflow.org).
 * [DQN-tensorflow](https://github.com/devsisters/DQN-tensorflow) - Tensorflow implementation of DeepMind's 'Human-Level Control through Deep Reinforcement Learning' with OpenAI Gym by Devsisters.com
 * [Highway Network](https://github.com/fomorians/highway-cnn) - Tensorflow implementation of ["Training Very Deep Networks"](http://arxiv.org/abs/1507.06228) with a [blog post](https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.ndicn1i27)
 * [Sentence Classification with CNN](https://github.com/dennybritz/cnn-text-classification-tf) - Tensorflow implementation of ["Convolutional Neural Networks for Sentence Classification"](http://arxiv.org/abs/1408.5882) with a [blog post](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
+[End-To-End Memory Networks](https://github.com/domluna/memn2n) - Implementation of [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895)
 
 <a name="github-powered-by" />
 ## Powered by TensorFlow
