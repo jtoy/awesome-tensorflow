@@ -13,15 +13,19 @@ More info [here](http://tensorflow.org).
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
-- [Tutorials](#github-tutorials)
-- [Models/Projects](#github-projects)
-- [Powered by TensorFlow](#github-powered-by)
-- [Libraries](#libraries)
-- [Videos](#video)
-- [Papers](#papers)
-- [Blog posts](#blogs)
-- [Community](#community)
-- [Books](#books)
+
+- Tutorials
+- Models/Projects
+- Powered by TensorFlow
+- Libraries
+- Videos
+- Papers
+- Official announcements
+- Blog posts
+- Community
+- Books
+- Contributions
+- Credits
 
 <!-- /MarkdownTOC -->
 
@@ -35,6 +39,7 @@ More info [here](http://tensorflow.org).
 * [Terry Um’s TensorFlow Exercises](https://github.com/terryum/TensorFlow_Exercises) - Re-create the codes from other TensorFlow examples
 * [Installing TensorFlow on Raspberry Pi 3](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) - TensorFlow compiled and running properly on the Raspberry Pi
 * [Classification on time series](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) - Recurrent Neural Network classification in Tensorflow with LSTM on cellphone sensor data
+* [Creative Applications of Deep Learning w/ Tensorflow](https://github.com/pkmital/CADL) - Lecture transcripts as Jupyter Notebooks and guided homeworks from the Kadenze course.
 
 
 <a name="github-projects" />
@@ -93,6 +98,7 @@ More info [here](http://tensorflow.org).
 * [Stanford CS224d Lecture 7 - Introduction to TensorFlow, 19th Apr 2016](https://www.youtube.com/watch?v=L8Y2_Cq2X5s&index=7&list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam) - CS224d Deep Learning for Natural Language Processing by Richard Socher
 * [Diving into Machine Learning through TensorFlow](https://youtu.be/GZBIPwdGtkk?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W) - Pycon 2016 Portland Oregon, [Slide](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf) & [Code](https://github.com/amygdala/tensorflow-workshop) by Julia Ferraioli, Amy Unruh, Eli Bixby
 * [Large Scale Deep Learning with TensorFlow](https://youtu.be/XYwIDn00PAo) - Spark Summit 2016 Keynote by Jeff Dean
+* [Creative Applications of Deep Learning with Tensorflow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info) - Free Online Course from Kadenze Academy. Taught by Parag K. Mital.
 
 
 <a name="papers" />
