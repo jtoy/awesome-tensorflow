@@ -13,19 +13,15 @@ More info [here](http://tensorflow.org).
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
-
-- Tutorials
-- Models/Projects
-- Powered by TensorFlow
-- Libraries
-- Videos
-- Papers
-- Official announcements
-- Blog posts
-- Community
-- Books
-- Contributions
-- Credits
+- [Tutorials](#github-tutorials)
+- [Models/Projects](#github-projects)
+- [Powered by TensorFlow](#github-powered-by)
+- [Libraries](#libraries)
+- [Videos](#video)
+- [Papers](#papers)
+- [Blog posts](#blogs)
+- [Community](#community)
+- [Books](#books)
 
 <!-- /MarkdownTOC -->
 
