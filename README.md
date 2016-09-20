@@ -61,6 +61,7 @@ More info [here](http://tensorflow.org).
 * [Sentence Classification with CNN](https://github.com/dennybritz/cnn-text-classification-tf) - Tensorflow implementation of ["Convolutional Neural Networks for Sentence Classification"](http://arxiv.org/abs/1408.5882) with a [blog post](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [End-To-End Memory Networks](https://github.com/domluna/memn2n) - Implementation of [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895)
 * [Character-Aware Neural Language Models](https://github.com/carpedm20/lstm-char-cnn-tensorflow) - Tensorflow implementation of [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615)
+* [YOLO Tensorflow ++](https://github.com/thtrieu/yolotf) - Tensorflow implementation of 'YOLO: Real-Time Object Detection', with training and an actual support for real-time running on mobile devices.
 
 <a name="github-powered-by" />
 ## Powered by TensorFlow
