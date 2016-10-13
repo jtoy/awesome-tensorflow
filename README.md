@@ -63,6 +63,7 @@ More info [here](http://tensorflow.org).
 * [End-To-End Memory Networks](https://github.com/domluna/memn2n) - Implementation of [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895)
 * [Character-Aware Neural Language Models](https://github.com/carpedm20/lstm-char-cnn-tensorflow) - Tensorflow implementation of [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615)
 * [YOLO Tensorflow ++](https://github.com/thtrieu/yolotf) - Tensorflow implementation of 'YOLO: Real-Time Object Detection', with training and an actual support for real-time running on mobile devices.
+* [Wavenet](https://github.com/ibab/tensorflow-wavenet) - This is a TensorFlow implementation of the [WaveNet generative neural network architecture](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) for audio generation.
 
 <a name="github-powered-by" />
 ## Powered by TensorFlow
