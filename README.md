@@ -64,6 +64,7 @@ More info [here](http://tensorflow.org).
 * [Character-Aware Neural Language Models](https://github.com/carpedm20/lstm-char-cnn-tensorflow) - TensorFlow implementation of [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615)
 * [YOLO TensorFlow ++](https://github.com/thtrieu/yolotf) - TensorFlow implementation of 'YOLO: Real-Time Object Detection', with training and an actual support for real-time running on mobile devices.
 * [Wavenet](https://github.com/ibab/tensorflow-wavenet) - This is a TensorFlow implementation of the [WaveNet generative neural network architecture](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) for audio generation.
+* [Mnemonic Descent Method](https://github.com/trigeorgis/mdm) - Tensorflow implementation of ["Mnemonic Descent Method: A recurrent process applied for end-to-end face alignment"](http://ibug.doc.ic.ac.uk/media/uploads/documents/trigeorgis2016mnemonic.pdf)
 
 <a name="github-powered-by" />
 ## Powered by TensorFlow
