@@ -84,6 +84,10 @@ More info [here](http://tensorflow.org).
 * [keras](http://keras.io) - Minimal, modular deep learning library for TensorFlow and Theano
 * [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
 
+<a name="hosting" />
+## Hosting options
+* [Algorithmia TensorFlow Hosting](http://developers.algorithmia.com/algorithm-development/model-guides/tensorflow/) - Host your models for free on Algorithmia (GPU enabled)
+
 <a name="video" />
 ##Videos
 * [TensorFlow Guide 1](http://bit.ly/1OX8s8Y) - A guide to installation and use
