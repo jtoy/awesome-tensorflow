@@ -40,6 +40,7 @@ More info [here](http://tensorflow.org).
 <a name="github-projects" />
 ## Models/Projects
 * [Show, Attend and Tell] (https://github.com/yunjey/show_attend_and_tell) - Attention Based Image Caption Generator
+* [Neural Style](https://github.com/cysmith/neural-style-tf) Implementation of Neural Style  
 * [Pretty Tensor](https://github.com/google/prettytensor) - Pretty Tensor provides a high level builder API 
 * [Neural Style](https://github.com/anishathalye/neural-style) - An implementation of neural style 
 * [TensorFlow White Paper Notes](https://github.com/samjabrahams/tensorflow-white-paper-notes) - Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation
