@@ -70,6 +70,7 @@ More info [here](http://tensorflow.org).
 ## Powered by TensorFlow
 * [YOLO TensorFlow](https://github.com/gliese581gg/YOLO_tensorflow) - Implementation of 'YOLO : Real-Time Object Detection'
 * [Magenta](https://github.com/tensorflow/magenta) - Research project to advance the state of the art in machine intelligence for music and art generation
+* [FlowerBot](http://bot.flowerchecker.com) - Facebook chatbot for plant identification, [TensorFlow used for plant recognition](http://blog.flowerchecker.com/post/147842245973/we-have-developed-plant-identification-bot) with [FlowerChecker's data](http://www.flowerchecker.com/)
 
 
 <a name="libraries" />
