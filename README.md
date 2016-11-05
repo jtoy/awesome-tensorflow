@@ -29,7 +29,7 @@ More info [here](http://tensorflow.org).
 <a name="github-tutorials" />
 ## Tutorials
 * [TensorFlow Tutorial 1](https://github.com/pkmital/tensorflow_tutorials) - From the basics to slightly more interesting applications of TensorFlow
-* [TensorFlow Tutorial 2](https://github.com/nlintz/TensorFlow-Tutorials) - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano 
+* [TensorFlow Tutorial 2](https://github.com/nlintz/TensorFlow-Tutorials) - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow tutorials and code examples for beginners
 * [Sungjoon's TensorFlow-101](https://github.com/sjchoi86/Tensorflow-101) - TensorFlow tutorials written in Python with Jupyter Notebook
 * [Terry Um’s TensorFlow Exercises](https://github.com/terryum/TensorFlow_Exercises) - Re-create the codes from other TensorFlow examples
@@ -40,11 +40,11 @@ More info [here](http://tensorflow.org).
 <a name="github-projects" />
 ## Models/Projects
 * [Show, Attend and Tell] (https://github.com/yunjey/show_attend_and_tell) - Attention Based Image Caption Generator
-* [Neural Style](https://github.com/cysmith/neural-style-tf) Implementation of Neural Style  
-* [Pretty Tensor](https://github.com/google/prettytensor) - Pretty Tensor provides a high level builder API 
-* [Neural Style](https://github.com/anishathalye/neural-style) - An implementation of neural style 
+* [Neural Style](https://github.com/cysmith/neural-style-tf) Implementation of Neural Style
+* [Pretty Tensor](https://github.com/google/prettytensor) - Pretty Tensor provides a high level builder API
+* [Neural Style](https://github.com/anishathalye/neural-style) - An implementation of neural style
 * [TensorFlow White Paper Notes](https://github.com/samjabrahams/tensorflow-white-paper-notes) - Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation
-* [NeuralArt](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of A Neural Algorithm of Artistic Style 
+* [NeuralArt](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of A Neural Algorithm of Artistic Style
 * [Deep-Q learning Pong with TensorFlow and PyGame](http://www.danielslater.net/2016/03/deep-q-learning-pong-with-tensorflow.html)
 * [Generative Handwriting Demo using TensorFlow](https://github.com/hardmaru/write-rnn-tensorflow) - An attempt to implement the random handwriting generation portion of Alex Graves' paper
 * [Neural Turing Machine in TensorFlow](https://github.com/carpedm20/NTM-tensorflow) - implementation of Neural Turing Machine
@@ -78,7 +78,7 @@ More info [here](http://tensorflow.org).
 * [Scikit Flow (TF Learn)](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) - Simplified interface for Deep/Machine Learning (now part of TensorFlow)
 * [tensorflow.rb](https://github.com/somaticio/tensorflow.rb) - TensorFlow native interface for ruby using SWIG
 
-* [tflearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API 
+* [tflearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API
 * [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/inception/inception/slim) - High-level library for defining models
 * [TensorFrames](https://github.com/tjhunter/tensorframes) - TensorFlow binding for Apache Spark
 * [caffe-tensorflow](https://github.com/ethereon/caffe-tensorflow) - Convert Caffe models to TensorFlow format
@@ -92,7 +92,7 @@ More info [here](http://tensorflow.org).
 * [TensorFlow Basic Usage](http://bit.ly/1TCNmEY) - A guide going over basic usage
 * [TensorFlow Deep MNIST for Experts](http://bit.ly/1L9IfJx) - Goes over Deep MNIST
 * [TensorFlow Udacity Deep Learning](https://www.youtube.com/watch?v=ReaxoSIM5XQ) - Basic steps to install TensorFlow for free on the Cloud 9 online service with 1Gb of data
-* [Why Google wants everyone to have access to TensorFlow](http://video.foxnews.com/v/4611174773001/why-google-wants-everyone-to-have-access-to-tensorflow/?#sp=show-clips) 
+* [Why Google wants everyone to have access to TensorFlow](http://video.foxnews.com/v/4611174773001/why-google-wants-everyone-to-have-access-to-tensorflow/?#sp=show-clips)
 * [Videos from TensorFlow Silicon Valley Meet Up 1/19/2016](http://blog.altoros.com/videos-from-tensorflow-silicon-valley-meetup-january-19-2016.html)
 * [Videos from TensorFlow Silicon Valley Meet Up 1/21/2016](http://blog.altoros.com/videos-from-tensorflow-seattle-meetup-jan-21-2016.html)
 * [Stanford CS224d Lecture 7 - Introduction to TensorFlow, 19th Apr 2016](https://www.youtube.com/watch?v=L8Y2_Cq2X5s&index=7&list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam) - CS224d Deep Learning for Natural Language Processing by Richard Socher
@@ -122,10 +122,11 @@ More info [here](http://tensorflow.org).
 * [Introduction to Scikit Flow - Simplified Interface to TensorFlow](http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/) - Key Features Illustrated
 * [Building Machine Learning Estimator in TensorFlow](http://terrytangyuan.github.io/2016/07/08/understand-and-build-tensorflow-estimator/) - Understanding the Internals of TensorFlow Learn Estimators
 * [TensorFlow - Not Just For Deep Learning](http://terrytangyuan.github.io/2016/08/06/tensorflow-not-just-deep-learning/)
-* [The indico Machine Learning Team's take on TensorFlow](https://indico.io/blog/indico-tensorflow) 
+* [The indico Machine Learning Team's take on TensorFlow](https://indico.io/blog/indico-tensorflow)
 * [The Good, Bad, & Ugly of TensorFlow](https://indico.io/blog/the-good-bad-ugly-of-tensorflow/) - A survey of six months rapid evolution (+ tips/hacks and code to fix the ugly stuff), Dan Kuster at Indico, May 9, 2016
 * [Fizz Buzz in TensorFlow](http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/) - A joke by Joel Grus
 * [RNNs In TensorFlow, A Practical Guide And Undocumented Features](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/) - Step-by-step guide with full code examples on GitHub.
+* [Using TensorBoard to Visualize Image Classification Retraining in TensorFlow](http://maxmelnick.com/2016/07/04/visualizing-tensorflow-retrain.html)
 
 
 <a name="community" />
@@ -154,7 +155,7 @@ Also, if you notice that any of the above listed repositories should be deprecat
 
 * Repository's owner explicitly say that "this library is not maintained".
 * Not committed for long time (2~3 years).
- 
+
 More info on the [guidelines](https://github.com/jtoy/awesome-tensorflow/blob/master/contributing.md)
 
 
