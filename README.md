@@ -86,7 +86,6 @@ More info [here](http://tensorflow.org).
 * [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
 * [keras-js](https://github.com/transcranial/keras-js) - Run Keras models (tensorflow backend) in the browser, with GPU support
 
-
 <a name="video" />
 ##Videos
 * [TensorFlow Guide 1](http://bit.ly/1OX8s8Y) - A guide to installation and use
