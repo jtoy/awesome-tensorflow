@@ -70,6 +70,7 @@ More info [here](http://tensorflow.org).
 <a name="github-powered-by" />
 ## Powered by TensorFlow
 * [YOLO TensorFlow](https://github.com/gliese581gg/YOLO_tensorflow) - Implementation of 'YOLO : Real-Time Object Detection'
+* [android-yolo](https://github.com/natanielruiz/android-yolo) - Real-time object detection on Android using the YOLO network, powered by TensorFlow.
 * [Magenta](https://github.com/tensorflow/magenta) - Research project to advance the state of the art in machine intelligence for music and art generation
 
 
