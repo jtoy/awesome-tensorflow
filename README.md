@@ -141,6 +141,7 @@ More info [here](http://tensorflow.org).
 * [@TensorFlo on Twitter](https://twitter.com/TensorFlo)
 * [Reddit](https://www.reddit.com/r/tensorflow)
 * [Mailing List](https://groups.google.com/a/tensorflow.org/forum/#!forum/discuss)
+* [TopTensorFlow Newsletter](http://www.toptensorflow.com/)
 
 
 <a name="books" />
