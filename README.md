@@ -44,6 +44,7 @@ More info [here](http://tensorflow.org).
 * [Neural Style](https://github.com/cysmith/neural-style-tf) Implementation of Neural Style
 * [Pretty Tensor](https://github.com/google/prettytensor) - Pretty Tensor provides a high level builder API
 * [Neural Style](https://github.com/anishathalye/neural-style) - An implementation of neural style
+* [AlexNet3D](https://github.com/denti/AlexNet3D) - An implementations of AlexNet3D. Simple AlexNet model but with 3D convolutional layers (conv3d).
 * [TensorFlow White Paper Notes](https://github.com/samjabrahams/tensorflow-white-paper-notes) - Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation
 * [NeuralArt](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of A Neural Algorithm of Artistic Style
 * [Deep-Q learning Pong with TensorFlow and PyGame](http://www.danielslater.net/2016/03/deep-q-learning-pong-with-tensorflow.html)
