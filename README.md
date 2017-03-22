@@ -8,8 +8,6 @@ TensorFlow is an open source software library for numerical computation using da
 
 More info [here](http://tensorflow.org).
 
-
-
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
@@ -27,6 +25,7 @@ More info [here](http://tensorflow.org).
 
 
 <a name="github-tutorials" />
+
 ## Tutorials
 
 * [TensorFlow Tutorial 1](https://github.com/pkmital/tensorflow_tutorials) - From the basics to slightly more interesting applications of TensorFlow
@@ -143,7 +142,7 @@ More info [here](http://tensorflow.org).
 
 <a name="video" />
 
-##Videos
+## Videos
 
 * [TensorFlow Guide 1](http://bit.ly/1OX8s8Y) - A guide to installation and use
 
@@ -171,7 +170,7 @@ More info [here](http://tensorflow.org).
 
 <a name="papers" />
 
-##Papers
+## Papers
 
 * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf) - This paper describes the TensorFlow interface and an implementation of that interface that we have built at Google
 
