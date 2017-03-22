@@ -221,7 +221,7 @@ More info [here](http://tensorflow.org).
 
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/tensorflow)
 
-* [@TensorFlo on Twitter](https://twitter.com/TensorFlo)
+* [@TensorFlow on Twitter](https://twitter.com/TensorFlo)
 
 * [Reddit](https://www.reddit.com/r/tensorflow)
 
