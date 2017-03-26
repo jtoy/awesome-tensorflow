@@ -27,7 +27,9 @@ More info [here](http://tensorflow.org).
 
 
 <a name="github-tutorials" />
+
 ## Tutorials
+
 * [TensorFlow Tutorial 1](https://github.com/pkmital/tensorflow_tutorials) - From the basics to slightly more interesting applications of TensorFlow
 * [TensorFlow Tutorial 2](https://github.com/nlintz/TensorFlow-Tutorials) - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow tutorials and code examples for beginners
@@ -39,6 +41,7 @@ More info [here](http://tensorflow.org).
 
 <a name="github-projects" />
 ## Models/Projects
+
 * [Domain Transfer Network](https://github.com/yunjey/dtn-tensorflow) - Implementation of Unsupervised Cross-Domain Image Generation
 * [Show, Attend and Tell] (https://github.com/yunjey/show_attend_and_tell) - Attention Based Image Caption Generator
 * [Neural Style](https://github.com/cysmith/neural-style-tf) Implementation of Neural Style
@@ -71,6 +74,7 @@ More info [here](http://tensorflow.org).
 
 <a name="github-powered-by" />
 ## Powered by TensorFlow
+
 * [YOLO TensorFlow](https://github.com/gliese581gg/YOLO_tensorflow) - Implementation of 'YOLO : Real-Time Object Detection'
 * [android-yolo](https://github.com/natanielruiz/android-yolo) - Real-time object detection on Android using the YOLO network, powered by TensorFlow.
 * [Magenta](https://github.com/tensorflow/magenta) - Research project to advance the state of the art in machine intelligence for music and art generation
@@ -78,6 +82,7 @@ More info [here](http://tensorflow.org).
 
 <a name="libraries" />
 ## Libraries
+
 * [Scikit Flow (TF Learn)](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) - Simplified interface for Deep/Machine Learning (now part of TensorFlow)
 * [tensorflow.rb](https://github.com/somaticio/tensorflow.rb) - TensorFlow native interface for ruby using SWIG
 
@@ -91,7 +96,8 @@ More info [here](http://tensorflow.org).
 * [NNFlow](https://github.com/welschma/NNFlow)  Simple framework allowing to read-in ROOT NTuples by converting them to a Numpy array and then use them in Google Tensorflow.
 
 <a name="video" />
-##Videos
+## Videos
+
 * [TensorFlow Guide 1](http://bit.ly/1OX8s8Y) - A guide to installation and use
 * [TensorFlow Guide 2](http://bit.ly/1R27Ki9) - Continuation of first video
 * [TensorFlow Basic Usage](http://bit.ly/1TCNmEY) - A guide going over basic usage
@@ -108,7 +114,8 @@ More info [here](http://tensorflow.org).
 
 
 <a name="papers" />
-##Papers
+## Papers
+
 * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf) - This paper describes the TensorFlow interface and an implementation of that interface that we have built at Google
 * [TF.Learn: TensorFlow's High-level Module for Distributed Machine Learning](https://arxiv.org/abs/1612.04251)
 * [Comparative Study of Deep Learning Software Frameworks](http://arxiv.org/abs/1511.06435) - The study is performed on several types of deep learning architectures and we evaluate the performance of the above frameworks when employed on a single machine for both (multi-threaded) CPU and GPU (Nvidia Titan X) settings
@@ -124,6 +131,7 @@ More info [here](http://tensorflow.org).
 * [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.com/2016/05/announcing-syntaxnet-worlds-most.html) - Release of SyntaxNet, "an open-source neural network framework implemented in TensorFlow that provides a foundation for Natural Language Understanding systems.
 
 ## Blog posts
+
 * [Why TensorFlow will change the Game for AI](http://www.somatic.io/blog/why-tensorflow-will-change-the-game-for-ai)
 * [TensorFlow for Poets](http://petewarden.com/2016/02/28/tensorflow-for-poets) - Goes over the implementation of TensorFlow
 * [Introduction to Scikit Flow - Simplified Interface to TensorFlow](http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/) - Key Features Illustrated
@@ -139,6 +147,7 @@ More info [here](http://tensorflow.org).
 
 <a name="community" />
 ## Community
+
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/tensorflow)
 * [@TensorFlo on Twitter](https://twitter.com/TensorFlo)
 * [Reddit](https://www.reddit.com/r/tensorflow)
@@ -147,6 +156,7 @@ More info [here](http://tensorflow.org).
 
 <a name="books" />
 ## Books
+
 * [First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/) by Jordi Torres, professor at UPC Barcelona Tech and a research manager and senior advisor at Barcelona Supercomputing Center
 * [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) - Develop Deep Learning Models on Theano and TensorFlow Using Keras by Jason Brownlee
 * [TensorFlow for Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/) - Complete guide to use TensorFlow from the basics of graph computing, to deep learning models to using it in production environments - Bleeding Edge Press
@@ -158,6 +168,7 @@ More info [here](http://tensorflow.org).
 
 <a name="contributions" />
 ## Contributions
+
 Your contributions are always welcome!
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@jtoy](https://twitter.com/jtoy)
