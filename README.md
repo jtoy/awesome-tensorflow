@@ -38,6 +38,7 @@ More info [here](http://tensorflow.org).
 * [Installing TensorFlow on Raspberry Pi 3](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) - TensorFlow compiled and running properly on the Raspberry Pi
 * [Classification on time series](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) - Recurrent Neural Network classification in TensorFlow with LSTM on cellphone sensor data
 * [Getting Started with TensorFlow on Android](https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html) - Build your first TensorFlow Android app
+* [Deploying a TensorFlow model to Android](https://medium.com/@theyonibomber/deploying-a-tensorflow-model-to-android-69d04d1b0cba) - Another Android deployment guide with some pitfalls and how to avoid them, written in blood 💉
 
 
 <a name="github-projects" />
