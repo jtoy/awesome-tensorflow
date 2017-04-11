@@ -99,6 +99,7 @@ More info [here](http://tensorflow.org).
 * [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
 * [keras-js](https://github.com/transcranial/keras-js) - Run Keras models (tensorflow backend) in the browser, with GPU support
 * [NNFlow](https://github.com/welschma/NNFlow) - Simple framework allowing to read-in ROOT NTuples by converting them to a Numpy array and then use them in Google Tensorflow.
+* [Sonnet](https://github.com/deepmind/sonnet) - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
 
 <a name="video" />
 
