@@ -38,6 +38,7 @@ More info [here](http://tensorflow.org).
 * [Installing TensorFlow on Raspberry Pi 3](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) - TensorFlow compiled and running properly on the Raspberry Pi
 * [Classification on time series](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) - Recurrent Neural Network classification in TensorFlow with LSTM on cellphone sensor data
 * [Getting Started with TensorFlow on Android](https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html) - Build your first TensorFlow Android app
+* [Predict time series](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) - Learn to use a seq2seq model on simple datasets as an introduction to the vast array of possibilities that this architecture offers
 
 
 <a name="github-projects" />
