@@ -38,6 +38,7 @@ More info [here](http://tensorflow.org).
 * [Installing TensorFlow on Raspberry Pi 3](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) - TensorFlow compiled and running properly on the Raspberry Pi
 * [Classification on time series](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) - Recurrent Neural Network classification in TensorFlow with LSTM on cellphone sensor data
 * [Getting Started with TensorFlow on Android](https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html) - Build your first TensorFlow Android app
+* [Predict time series](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) - Learn to use a seq2seq model on simple datasets as an introduction to the vast array of possibilities that this architecture offers
 
 
 <a name="github-projects" />
@@ -98,6 +99,7 @@ More info [here](http://tensorflow.org).
 * [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
 * [keras-js](https://github.com/transcranial/keras-js) - Run Keras models (tensorflow backend) in the browser, with GPU support
 * [NNFlow](https://github.com/welschma/NNFlow) - Simple framework allowing to read-in ROOT NTuples by converting them to a Numpy array and then use them in Google Tensorflow.
+* [Sonnet](https://github.com/deepmind/sonnet) - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
 
 <a name="video" />
 
