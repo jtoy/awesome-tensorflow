@@ -39,7 +39,7 @@ More info [here](http://tensorflow.org).
 * [Classification on time series](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) - Recurrent Neural Network classification in TensorFlow with LSTM on cellphone sensor data
 * [Getting Started with TensorFlow on Android](https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html) - Build your first TensorFlow Android app
 * [Predict time series](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) - Learn to use a seq2seq model on simple datasets as an introduction to the vast array of possibilities that this architecture offers
-
+* [Single Image Random Dot Stereograms](https://github.com/Mazecreator/TensorFlow-SIRDS) - SIRDS is a means to present 3D data in a 2D image. It allows for scientific data display of a waterfall type plot with no hidden lines due to perspective.
 
 <a name="github-projects" />
 
