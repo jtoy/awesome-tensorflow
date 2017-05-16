@@ -102,6 +102,10 @@ More info [here](http://tensorflow.org).
 * [NNFlow](https://github.com/welschma/NNFlow) - Simple framework allowing to read-in ROOT NTuples by converting them to a Numpy array and then use them in Google Tensorflow.
 * [Sonnet](https://github.com/deepmind/sonnet) - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
 
+<a name="hosting" />
+## Hosting options
+* [Algorithmia TensorFlow Hosting](http://developers.algorithmia.com/algorithm-development/model-guides/tensorflow/) - Host your models for free on Algorithmia (GPU enabled)
+
 <a name="video" />
 
 ## Videos
