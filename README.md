@@ -18,6 +18,7 @@ More info [here](http://tensorflow.org).
 - [Powered by TensorFlow](#github-powered-by)
 - [Libraries](#libraries)
 - [Videos](#video)
+- [Courses](#courses)
 - [Papers](#papers)
 - [Blog posts](#blogs)
 - [Community](#community)
@@ -120,6 +121,9 @@ More info [here](http://tensorflow.org).
 * [Tensorflow and deep learning - without at PhD](https://www.youtube.com/watch?v=vq2nnJ4g6N0) -  by Martin Görner
 
 
+<a name="courses" />
+##Courses
+* [Creative Applications of Deep Learning with Tensorflow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i/info) - by Parag Mital in Kadenze
 
 <a name="papers" />
 
