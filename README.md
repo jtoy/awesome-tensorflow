@@ -75,6 +75,7 @@ More info [here](http://tensorflow.org).
 * [Wavenet](https://github.com/ibab/tensorflow-wavenet) - This is a TensorFlow implementation of the [WaveNet generative neural network architecture](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) for audio generation.
 * [Mnemonic Descent Method](https://github.com/trigeorgis/mdm) - Tensorflow implementation of ["Mnemonic Descent Method: A recurrent process applied for end-to-end face alignment"](http://ibug.doc.ic.ac.uk/media/uploads/documents/trigeorgis2016mnemonic.pdf)
 * [CNN visualization using Tensorflow](https://github.com/InFoCusp/tf_cnnvis) - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
+* [VGAN Tensorflow](https://github.com/Singularity42/VGAN-Tensorflow) - Tensorflow implementation for MIT ["Generating Videos with Scene Dynamics"](http://carlvondrick.com/tinyvideo/) by Vondrick et al.
 
 <a name="github-powered-by" />
 
