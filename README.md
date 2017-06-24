@@ -79,6 +79,8 @@ More info [here](http://tensorflow.org).
 * [CNN visualization using Tensorflow](https://github.com/InFoCusp/tf_cnnvis) - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 * [VGAN Tensorflow](https://github.com/Singularity42/VGAN-Tensorflow) - Tensorflow implementation for MIT ["Generating Videos with Scene Dynamics"](http://carlvondrick.com/tinyvideo/) by Vondrick et al.
 
+* [3D Convolutional Neural Networks in TensorFlow](https://github.com/astorfi/3D-convolutional-speaker-recognition) - Implementation of ["3D Convolutional Neural Networks for Speaker Verification application"](https://arxiv.org/abs/1705.09422) in TensorFlow by Torfi et al.
+
 <a name="github-powered-by" />
 
 ## Powered by TensorFlow
