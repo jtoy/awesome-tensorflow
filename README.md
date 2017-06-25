@@ -42,13 +42,14 @@ More info [here](http://tensorflow.org).
 * [Single Image Random Dot Stereograms](https://github.com/Mazecreator/TensorFlow-SIRDS) - SIRDS is a means to present 3D data in a 2D image. It allows for scientific data display of a waterfall type plot with no hidden lines due to perspective.
 * [CS20 SI: TensorFlow for DeepLearning Research](http://web.stanford.edu/class/cs20si/syllabus.html) - Stanford Course about Tensorflow from 2017 - [Syllabus](http://web.stanford.edu/class/cs20si/syllabus.html) - [Unofficial Videos](https://youtu.be/g-EvyKpZjmQ?list=PLSPPwKHXGS2110rEaNH7amFGmaD5hsObs)
 * [Deploying Tensorflow on a Kubernetes GPU cluster](https://github.com/Langhalsdino/Kubernetes-GPU-Guide) - Automate deep learning training with Kubernetes GPU-cluster by the example of Tensorflow inside JupyterNotebook
+* [TensorFlow World](https://github.com/astorfi/TensorFlow-World) - Concise and ready-to-use TensorFlow tutorials with detailed documentation are provided.
 
 <a name="github-projects" />
 
 ## Models/Projects
 
 * [Domain Transfer Network](https://github.com/yunjey/dtn-tensorflow) - Implementation of Unsupervised Cross-Domain Image Generation
-* [Show, Attend and Tell] (https://github.com/yunjey/show_attend_and_tell) - Attention Based Image Caption Generator
+* [Show, Attend and Tell](https://github.com/yunjey/show_attend_and_tell) - Attention Based Image Caption Generator
 * [Neural Style](https://github.com/cysmith/neural-style-tf) Implementation of Neural Style
 * [Pretty Tensor](https://github.com/google/prettytensor) - Pretty Tensor provides a high level builder API
 * [Neural Style](https://github.com/anishathalye/neural-style) - An implementation of neural style
@@ -58,10 +59,10 @@ More info [here](http://tensorflow.org).
 * [Deep-Q learning Pong with TensorFlow and PyGame](http://www.danielslater.net/2016/03/deep-q-learning-pong-with-tensorflow.html)
 * [Generative Handwriting Demo using TensorFlow](https://github.com/hardmaru/write-rnn-tensorflow) - An attempt to implement the random handwriting generation portion of Alex Graves' paper
 * [Neural Turing Machine in TensorFlow](https://github.com/carpedm20/NTM-tensorflow) - implementation of Neural Turing Machine
-* [GoogleNet Convolutional Neural Network Groups Movie Scenes By Setting] (https://github.com/agermanidis/thingscoop) - Search, filter, and describe videos based on objects, places, and other things that appear in them
+* [GoogleNet Convolutional Neural Network Groups Movie Scenes By Setting](https://github.com/agermanidis/thingscoop) - Search, filter, and describe videos based on objects, places, and other things that appear in them
 * [Neural machine translation between the writings of Shakespeare and modern English using TensorFlow](https://github.com/tokestermw/tensorflow-shakespeare) - This performs a monolingual translation, going from modern English to Shakespeare and vis-versa.
 * [Chatbot](https://github.com/Conchylicultor/DeepQA) - Implementation of ["A neural conversational model"](http://arxiv.org/abs/1506.05869)
-* [Colornet - Neural Network to colorize grayscale images] (https://github.com/pavelgonchar/colornet) - Neural Network to colorize grayscale images
+* [Colornet - Neural Network to colorize grayscale images](https://github.com/pavelgonchar/colornet) - Neural Network to colorize grayscale images
 * [Neural Caption Generator](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show and Tell"](http://arxiv.org/abs/1411.4555)
 * [Neural Caption Generator with Attention](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show, Attend and Tell"](http://arxiv.org/abs/1502.03044)
 * [Weakly_detector](https://github.com/jazzsaxmafia/Weakly_detector) - Implementation of ["Learning Deep Features for Discriminative Localization"](http://cnnlocalization.csail.mit.edu/)
@@ -78,6 +79,8 @@ More info [here](http://tensorflow.org).
 * [Mnemonic Descent Method](https://github.com/trigeorgis/mdm) - Tensorflow implementation of ["Mnemonic Descent Method: A recurrent process applied for end-to-end face alignment"](http://ibug.doc.ic.ac.uk/media/uploads/documents/trigeorgis2016mnemonic.pdf)
 * [CNN visualization using Tensorflow](https://github.com/InFoCusp/tf_cnnvis) - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 * [VGAN Tensorflow](https://github.com/Singularity42/VGAN-Tensorflow) - Tensorflow implementation for MIT ["Generating Videos with Scene Dynamics"](http://carlvondrick.com/tinyvideo/) by Vondrick et al.
+
+* [3D Convolutional Neural Networks in TensorFlow](https://github.com/astorfi/3D-convolutional-speaker-recognition) - Implementation of ["3D Convolutional Neural Networks for Speaker Verification application"](https://arxiv.org/abs/1705.09422) in TensorFlow by Torfi et al.
 
 <a name="github-powered-by" />
 
