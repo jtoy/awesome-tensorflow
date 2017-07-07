@@ -168,7 +168,7 @@ More info [here](http://tensorflow.org).
 ## Community
 
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/tensorflow)
-* [@TensorFlo on Twitter](https://twitter.com/TensorFlo)
+* [@TensorFlow on Twitter](https://twitter.com/tensorflow)
 * [Reddit](https://www.reddit.com/r/tensorflow)
 * [Mailing List](https://groups.google.com/a/tensorflow.org/forum/#!forum/discuss)
 
