@@ -84,7 +84,7 @@ More info [here](http://tensorflow.org).
 
 
 * [Lip Reading - Cross Audio-Visual Recognition using 3D Architectures in TensorFlow](https://github.com/astorfi/lip-reading-deeplearning) - TensorFlow Implementation of ["Cross Audio-Visual Recognition in the Wild Using Deep Learning"](https://arxiv.org/abs/1706.05739) by Torfi et al.
-
+* [Attentive Object Tracking](https://github.com/akosiorek/hart) - Implementation of ["Hierarchical Attentive Recurrent Tracking"](https://arxiv.org/abs/1706.09262)
 <a name="github-powered-by" />
 
 ## Powered by TensorFlow
