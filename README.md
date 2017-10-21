@@ -88,6 +88,8 @@ More info [here](http://tensorflow.org).
 * [Holographic Embeddings for Graph Completion and Link Prediction](https://github.com/laxatives/TensorFlow-TransX) - Implementation of [Holographic Embeddings of Knowledge Graphs](http://arxiv.org/abs/1510.04935)
 * [Unsupervised Object Counting](https://github.com/akosiorek/attend_infer_repeat) - Implementation of ["Attend, Infer, Repeat"](https://papers.nips.cc/paper/6230-attend-infer-repeat-fast-scene-understanding-with-generative-models)
 
+* [Phot-Awe](http://www.phot-awe.com) - An easy to use browser for photos, using TensorFlow to recognize objects within those photos. 
+
 <a name="github-powered-by" />
 
 ## Powered by TensorFlow
