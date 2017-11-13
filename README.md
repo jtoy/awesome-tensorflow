@@ -170,7 +170,7 @@ More info [here](http://tensorflow.org).
 * [TFRecords Guide](http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/21/tfrecords-guide/) semantic segmentation and handling the TFRecord file format.
 * [TensorFlow Android Guide](https://blog.mindorks.com/android-tensorflow-machine-learning-example-ff0e9b2654cc) - Android TensorFlow Machine Learning Example.
 * [TensorFlow Optimizations on Modern Intel® Architecture](https://software.intel.com/en-us/articles/tensorflow-optimizations-on-modern-intel-architecture) - Introduces TensorFlow optimizations on Intel® Xeon® and Intel® Xeon Phi™ processor-based platforms based on an Intel/Google collaboration.
-
+* [Coca-Cola's Image Recognition App](https://developers.googleblog.com/2017/09/how-machine-learning-with-tensorflow.html) Coca-Cola's product code image recognizing neural network with user input feedback loop.
 
 
 <a name="community" />
