@@ -48,8 +48,8 @@ More info [here](http://tensorflow.org).
 
 ## Models/Projects
 
-* [Tensorflow-Project-Template](https://github.com/Mrgemy95/Tensorflow-Project-Template) - A simple and well-designed template for your tensorflow project.
 * [SenseNet](https://github.com/jtoy/sensenetjey/dtn-tensorflow) - Robotics touch model with TensorFlow DQN example
+* [Tensorflow-Project-Template](https://github.com/Mrgemy95/Tensorflow-Project-Template) - A simple and well-designed template for your tensorflow project.
 * [Domain Transfer Network](https://github.com/yunjey/dtn-tensorflow) - Implementation of Unsupervised Cross-Domain Image Generation
 * [Show, Attend and Tell](https://github.com/yunjey/show_attend_and_tell) - Attention Based Image Caption Generator
 * [Neural Style](https://github.com/cysmith/neural-style-tf) Implementation of Neural Style
