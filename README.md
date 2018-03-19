@@ -44,6 +44,7 @@ More info [here](http://tensorflow.org).
 * [TensorFlow World](https://github.com/astorfi/TensorFlow-World) - Concise and ready-to-use TensorFlow tutorials with detailed documentation are provided.
 * [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow howtos and best practices. Covers the basics as well as advanced topics.
 * [TensorLayer](http://tensorlayer.readthedocs.io/en/latest/user/tutorial.html) - Modular implementation for TensorFlow's official tutorials. ([CN](https://tensorlayercn.readthedocs.io/zh/latest/user/tutorial.html)).
+* [Machine Learning for Mere Mortals](https://www.manning.com/livevideo/machine-learning-for-mere-mortals) - Introduction to machine learning using Tensorflow for those without a deep mathematical background.
 
 <a name="github-projects" />
 
