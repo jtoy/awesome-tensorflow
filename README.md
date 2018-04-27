@@ -217,6 +217,11 @@ More info [here](http://tensorflow.org).
 * [Deep Learning using TensorLayer](http://www.broadview.com.cn/book/5059) - by Hao Dong et al. This book covers both deep learning and the implmentation by using TensorFlow and TensorLayer.
 
 
+<a name="encyclopedic"  />
+
+## Encyclopedic
+
+* [Golden Tensorflow page](https://golden.co/wiki/TensorFlow) - Page on Tensorflow, including academic papers, with links out to related topics
 
 <a name="contributions" />
 
