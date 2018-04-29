@@ -103,6 +103,7 @@ More info [here](http://tensorflow.org).
 * [Holographic Embeddings for Graph Completion and Link Prediction](https://github.com/laxatives/TensorFlow-TransX) - Implementation of [Holographic Embeddings of Knowledge Graphs](http://arxiv.org/abs/1510.04935)
 * [Unsupervised Object Counting](https://github.com/akosiorek/attend_infer_repeat) - Implementation of ["Attend, Infer, Repeat"](https://papers.nips.cc/paper/6230-attend-infer-repeat-fast-scene-understanding-with-generative-models)
 * [Tensorflow FastText](https://github.com/apcode/tensorflow_fasttext) - A simple embedding based text classifier inspired by Facebook's fastText.
+* [MusicGenreClassification](https://github.com/mlachmish/MusicGenreClassification) - Classify music genre from a 10 second sound stream using a Neural Network.
 
 <a name="github-powered-by" />
 
