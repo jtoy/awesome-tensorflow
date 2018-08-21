@@ -177,7 +177,7 @@ More info [here](http://tensorflow.org).
 * [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.com/2016/05/announcing-syntaxnet-worlds-most.html) - Release of SyntaxNet, "an open-source neural network framework implemented in TensorFlow that provides a foundation for Natural Language Understanding systems.
 
 ## Blog posts
-
+* [Official Tensorflow Blog](http://blog.tensorflow.org/)
 * [Why TensorFlow will change the Game for AI](https://archive.fo/o9asj)
 * [TensorFlow for Poets](http://petewarden.com/2016/02/28/tensorflow-for-poets) - Goes over the implementation of TensorFlow
 * [Introduction to Scikit Flow - Simplified Interface to TensorFlow](http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/) - Key Features Illustrated
