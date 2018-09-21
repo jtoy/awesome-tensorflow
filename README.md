@@ -154,7 +154,8 @@ More info [here](http://tensorflow.org).
 * [Tensorflow and deep learning - without at PhD](https://www.youtube.com/watch?v=vq2nnJ4g6N0) -  by Martin Görner
 * [Tensorflow and deep learning - without at PhD, Part 2 (Google Cloud Next '17)](https://www.youtube.com/watch?v=fTUwdXUFfI8) -  by Martin Görner
 * [Image recognition in Go using TensorFlow](https://youtu.be/P8MZ1Z2LHrw) -  by Alex Pliutau
-
+* [Hands-on Reinforcement Learning with TensorFlow](https://www.packtpub.com/application-development/hands-reinforcement-learning-tensorflow-video) by Satwik Kansal .In this course, you’ll walk through different approaches to RL. You’ll move from a simple Q-learning to a more complex, deep RL architecture and implement your algorithms using Tensorflow’s Python API. You’ll be training your agents on two different games in a number of complex scenarios to make them more intelligent and perceptive.By the end of this course, you’ll be able to implement RL-based solutions in your projects from scratch using Tensorflow and Python.
+* [Predictive Analytics with TensorFlow](https://www.packtpub.com/big-data-and-business-intelligence/predictive-analytics-tensorflow-video) by Md. Rezaul Karim. This course will help you build, tune, and deploy predictive models with TensorFlow in three main divisions.
 
 
 <a name="papers" />
@@ -217,6 +218,8 @@ More info [here](http://tensorflow.org).
 * [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do) – by Aurélien Geron, former lead of the YouTube video classification team. Covers ML fundamentals, training and deploying deep nets across multiple servers and GPUs using TensorFlow, the latest CNN, RNN and Autoencoder architectures, and Reinforcement Learning (Deep Q).
 * [Building Machine Learning Projects with Tensorflow](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-projects-tensorflow) – by Rodolfo Bonnin. This book covers various projects in TensorFlow that expose what can be done with TensorFlow in different scenarios. The book provides projects on training models, machine learning, deep learning, and working with various neural networks. Each project is an engaging and insightful exercise that will teach you how to use TensorFlow and show you how layers of data can be explored by working with Tensors.
 * [Deep Learning using TensorLayer](http://www.broadview.com.cn/book/5059) - by Hao Dong et al. This book covers both deep learning and the implmentation by using TensorFlow and TensorLayer.
+* [Hands-On Convolutional Neural Networks with TensorFlow](https://www.packtpub.com/big-data-and-business-intelligence/hands-convolutional-neural-networks-tensorflow) - by Iffat Zafar et al. Learn how to apply TensorFlow to a wide range of deep learning and Machine Learning problems with this practical guide on training CNNs for image classification, image recognition, object detection and many computer vision challenges.
+* [TensorFlow Machine Learning Cookbook - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-machine-learning-cookbook-second-edition) - by Nick McClur With the help of this book, you will work with recipes for training models, model evaluation, sentiment analysis, regression analysis, clustering analysis, artificial neural networks, and more. You will explore RNNs, CNNs, GANs, reinforcement learning, and capsule networks, each using Google's machine learning library, TensorFlow. Through real-world examples, you will get hands-on experience with linear regression techniques with TensorFlow. Once you are familiar and comfortable with the TensorFlow ecosystem, you will be shown how to take it to production
 
 
 
