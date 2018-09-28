@@ -137,6 +137,7 @@ More info [here](http://tensorflow.org).
 * [NNFlow](https://github.com/welschma/NNFlow) - Simple framework allowing to read-in ROOT NTuples by converting them to a Numpy array and then use them in Google Tensorflow.
 * [Sonnet](https://github.com/deepmind/sonnet) - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
 * [tensorpack](https://github.com/ppwwyyxx/tensorpack) - Neural Network Toolbox on TensorFlow focusing on training speed and on large datasets.
+* [tensorlayer](https://github.com/tensorlayer/tensorlayer) - A deep learning and reinforcement learning Library for researchers and engineers.
 
 <a name="video" />
 
