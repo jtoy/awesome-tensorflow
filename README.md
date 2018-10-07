@@ -107,6 +107,7 @@ More info [here](http://tensorflow.org).
 * [MusicGenreClassification](https://github.com/mlachmish/MusicGenreClassification) - Classify music genre from a 10 second sound stream using a Neural Network.
 * [Kubeflow](https://github.com/kubeflow/kubeflow) - Framework for easily using Tensorflow with Kubernetes.
 * [TensorNets](https://github.com/taehoonlee/tensornets) - 40+ Popular Computer Vision Models With Pre-trained Weights.
+* [Attention mechanism using Tensorflow](https://github.com/ilivans/tf-rnn-attention) - Implementation of ["Hierarchical Attention Networks for Document Classification"](http://www.aclweb.org/anthology/N16-1174)
 
 <a name="github-powered-by" />
 
