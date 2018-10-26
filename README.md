@@ -45,7 +45,7 @@ More info [here](http://tensorflow.org).
 * [TensorFlow World](https://github.com/astorfi/TensorFlow-World) - Concise and ready-to-use TensorFlow tutorials with detailed documentation are provided.
 * [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow howtos and best practices. Covers the basics as well as advanced topics.
 * [TensorLayer](http://tensorlayer.readthedocs.io/en/latest/user/tutorial.html) - Modular implementation for TensorFlow's official tutorials. ([CN](https://tensorlayercn.readthedocs.io/zh/latest/user/tutorial.html)).
-
+* [Deep Diving into GANs: from theory to production](https://github.com/zurutech/gans-from-theory-to-production) Design, implement and productionize a GAN with TensorFlow.
 <a name="github-projects" />
 
 ## Models/Projects
@@ -158,7 +158,7 @@ More info [here](http://tensorflow.org).
 * [Tensorflow and deep learning - without at PhD](https://www.youtube.com/watch?v=vq2nnJ4g6N0) -  by Martin Görner
 * [Tensorflow and deep learning - without at PhD, Part 2 (Google Cloud Next '17)](https://www.youtube.com/watch?v=fTUwdXUFfI8) -  by Martin Görner
 * [Image recognition in Go using TensorFlow](https://youtu.be/P8MZ1Z2LHrw) -  by Alex Pliutau
-
+* [Deep Diving into GANs: From Theory to Production (EuroSciPy 2018)](https://www.youtube.com/watch?v=CePrdabdtxw) by Michele De Simoni, Paolo Galeone 
 
 
 <a name="papers" />
