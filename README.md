@@ -17,6 +17,7 @@ More info [here](http://tensorflow.org).
 - [Models/Projects](#github-projects)
 - [Powered by TensorFlow](#github-powered-by)
 - [Libraries](#libraries)
+- [Tools/Utilities](#tools-utils)
 - [Videos](#video)
 - [Papers](#papers)
 - [Blog posts](#blogs)
@@ -139,6 +140,12 @@ More info [here](http://tensorflow.org).
 * [Sonnet](https://github.com/deepmind/sonnet) - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
 * [tensorpack](https://github.com/ppwwyyxx/tensorpack) - Neural Network Toolbox on TensorFlow focusing on training speed and on large datasets.
 * [tf-encrypted](https://github.com/mortendahl/tf-encrypted) - Layer on top of TensorFlow for doing machine learning on encrypted data
+
+<a name="tools-utils" />
+
+## Tools/Utilities
+
+* [Guild AI](https://guild.ai) - Task runner and package manager for TensorFlow
 
 <a name="video" />
 
