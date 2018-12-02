@@ -107,6 +107,7 @@ More info [here](http://tensorflow.org).
 * [MusicGenreClassification](https://github.com/mlachmish/MusicGenreClassification) - Classify music genre from a 10 second sound stream using a Neural Network.
 * [Kubeflow](https://github.com/kubeflow/kubeflow) - Framework for easily using Tensorflow with Kubernetes.
 * [TensorNets](https://github.com/taehoonlee/tensornets) - 40+ Popular Computer Vision Models With Pre-trained Weights.
+* [Image-Classification-Mobile](https://github.com/osmr/imgclsmob) - Collection of classification models pretrained on the ImageNet-1K.
 
 <a name="github-powered-by" />
 
