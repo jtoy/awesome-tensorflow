@@ -46,6 +46,7 @@ More info [here](http://tensorflow.org).
 * [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow howtos and best practices. Covers the basics as well as advanced topics.
 * [TensorLayer](http://tensorlayer.readthedocs.io/en/latest/user/tutorial.html) - Modular implementation for TensorFlow's official tutorials. ([CN](https://tensorlayercn.readthedocs.io/zh/latest/user/tutorial.html)).
 * [Understanding The Tensorflow Estimator API](https://www.lighttag.io/blog/tensorflow-estimator-api/) A conceptual overview of the Estimator API, when you'd use it and why. 
+* [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course) - Covers the basics of deep learning through using Python-based deep learning tools, including scikit-learn, Keras, and TensorFlow 2.0. 
 
 <a name="github-projects" />
 
