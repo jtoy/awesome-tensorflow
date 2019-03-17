@@ -17,6 +17,7 @@ More info [here](http://tensorflow.org).
 - [Models/Projects](#github-projects)
 - [Powered by TensorFlow](#github-powered-by)
 - [Libraries](#libraries)
+- [Tools/Utilities](#tools-utils)
 - [Videos](#video)
 - [Papers](#papers)
 - [Blog posts](#blogs)
@@ -144,6 +145,12 @@ More info [here](http://tensorflow.org).
 * [pytorch2keras](https://github.com/nerox8664/pytorch2keras) - Convert PyTorch models to Keras (with TensorFlow backend) format
 * [gluon2keras](https://github.com/nerox8664/gluon2keras) - Convert Gluon models to Keras (with TensorFlow backend) format
 * [TensorIO](https://doc-ai.github.io/tensorio/) - Lightweight, cross-platform library for deploying TensorFlow Lite models to mobile devices. 
+
+<a name="tools-utils" />
+
+## Tools/Utilities
+
+* [Guild AI](https://guild.ai) - Task runner and package manager for TensorFlow
 
 <a name="video" />
 
