@@ -17,6 +17,7 @@ More info [here](http://tensorflow.org).
 - [Models/Projects](#github-projects)
 - [Powered by TensorFlow](#github-powered-by)
 - [Libraries](#libraries)
+- [Tools/Utilities](#tools-utils)
 - [Videos](#video)
 - [Papers](#papers)
 - [Blog posts](#blogs)
@@ -46,7 +47,8 @@ More info [here](http://tensorflow.org).
 * [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow howtos and best practices. Covers the basics as well as advanced topics.
 * [TensorLayer](http://tensorlayer.readthedocs.io/en/latest/user/tutorial.html) - Modular implementation for TensorFlow's official tutorials. ([CN](https://tensorlayercn.readthedocs.io/zh/latest/user/tutorial.html)).
 * [Understanding The Tensorflow Estimator API](https://www.lighttag.io/blog/tensorflow-estimator-api/) A conceptual overview of the Estimator API, when you'd use it and why. 
-* [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course) - Covers the basics of deep learning through using Python-based deep learning tools, including scikit-learn, Keras, and TensorFlow 2.0. 
+* [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow) - Convolutional Neural Networks in Tensorflow, offered by Coursera
+
 
 <a name="github-projects" />
 
@@ -90,6 +92,7 @@ More info [here](http://tensorflow.org).
 * [DAGGER](https://github.com/zsdonghao/Imitation-Learning-Dagger-Torcs) - For Playing [Gym Torcs](https://github.com/ugo-nama-kun/gym_torcs)
 * [TRPO](https://github.com/jjkke88/RL_toolbox) - For Continuous and Discrete Action Space by
 * [Highway Network](https://github.com/fomorians/highway-cnn) - TensorFlow implementation of ["Training Very Deep Networks"](http://arxiv.org/abs/1507.06228) with a [blog post](https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.ndicn1i27)
+* [Hierarchical Attention Networks](https://github.com/tqtg/hierarchical-attention-networks) - TensorFlow implementation of ["Hierarchical Attention Networks for Document Classification"](https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf)
 * [Sentence Classification with CNN](https://github.com/dennybritz/cnn-text-classification-tf) - TensorFlow implementation of ["Convolutional Neural Networks for Sentence Classification"](http://arxiv.org/abs/1408.5882) with a [blog post](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [End-To-End Memory Networks](https://github.com/domluna/memn2n) - Implementation of [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895)
 * [Character-Aware Neural Language Models](https://github.com/carpedm20/lstm-char-cnn-tensorflow) - TensorFlow implementation of [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615)
@@ -109,7 +112,7 @@ More info [here](http://tensorflow.org).
 * [MusicGenreClassification](https://github.com/mlachmish/MusicGenreClassification) - Classify music genre from a 10 second sound stream using a Neural Network.
 * [Kubeflow](https://github.com/kubeflow/kubeflow) - Framework for easily using Tensorflow with Kubernetes.
 * [TensorNets](https://github.com/taehoonlee/tensornets) - 40+ Popular Computer Vision Models With Pre-trained Weights.
-
+* [Ladder Network](https://github.com/divamgupta/ladder_network_keras) - Implementation of Ladder Network for Semi-Supervised Learning in Keras and Tensorflow
 <a name="github-powered-by" />
 
 ## Powered by TensorFlow
@@ -143,6 +146,14 @@ More info [here](http://tensorflow.org).
 * [tf-encrypted](https://github.com/mortendahl/tf-encrypted) - Layer on top of TensorFlow for doing machine learning on encrypted data
 * [pytorch2keras](https://github.com/nerox8664/pytorch2keras) - Convert PyTorch models to Keras (with TensorFlow backend) format
 * [gluon2keras](https://github.com/nerox8664/gluon2keras) - Convert Gluon models to Keras (with TensorFlow backend) format
+* [TensorIO](https://doc-ai.github.io/tensorio/) - Lightweight, cross-platform library for deploying TensorFlow Lite models to mobile devices. 
+* [StellarGraph](https://github.com/stellargraph/stellargraph) - Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.
+
+<a name="tools-utils" />
+
+## Tools/Utilities
+
+* [Guild AI](https://guild.ai) - Task runner and package manager for TensorFlow
 
 <a name="video" />
 
@@ -162,7 +173,7 @@ More info [here](http://tensorflow.org).
 * [Tensorflow and deep learning - without at PhD](https://www.youtube.com/watch?v=vq2nnJ4g6N0) -  by Martin Görner
 * [Tensorflow and deep learning - without at PhD, Part 2 (Google Cloud Next '17)](https://www.youtube.com/watch?v=fTUwdXUFfI8) -  by Martin Görner
 * [Image recognition in Go using TensorFlow](https://youtu.be/P8MZ1Z2LHrw) -  by Alex Pliutau
-
+* [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course) - Covers the basics of deep learning through using Python-based deep learning tools, including scikit-learn, Keras, and TensorFlow 2.0. 
 
 
 <a name="papers" />
