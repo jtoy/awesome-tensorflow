@@ -49,6 +49,7 @@ More info [here](http://tensorflow.org).
 * [Understanding The Tensorflow Estimator API](https://www.lighttag.io/blog/tensorflow-estimator-api/) A conceptual overview of the Estimator API, when you'd use it and why. 
 * [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow) - Convolutional Neural Networks in Tensorflow, offered by Coursera
 
+
 <a name="github-projects" />
 
 ## Models/Projects
@@ -172,7 +173,7 @@ More info [here](http://tensorflow.org).
 * [Tensorflow and deep learning - without at PhD](https://www.youtube.com/watch?v=vq2nnJ4g6N0) -  by Martin Görner
 * [Tensorflow and deep learning - without at PhD, Part 2 (Google Cloud Next '17)](https://www.youtube.com/watch?v=fTUwdXUFfI8) -  by Martin Görner
 * [Image recognition in Go using TensorFlow](https://youtu.be/P8MZ1Z2LHrw) -  by Alex Pliutau
-
+* [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course) - Covers the basics of deep learning through using Python-based deep learning tools, including scikit-learn, Keras, and TensorFlow 2.0. 
 
 
 <a name="papers" />
