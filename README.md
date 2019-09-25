@@ -153,6 +153,7 @@ More info [here](http://tensorflow.org).
 ## Tools/Utilities
 
 * [Guild AI](https://guild.ai) - Task runner and package manager for TensorFlow
+* [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web IDE for machine learning and data science. Combines Tensorflow, Jupyter, VS Code, Tensorboard, and many other tools/libraries into one Docker image.
 
 <a name="video" />
 
