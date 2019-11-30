@@ -163,6 +163,7 @@ More info [here](http://tensorflow.org).
 * [TensorFlow Guide 2](http://bit.ly/1R27Ki9) - Continuation of first video
 * [TensorFlow Basic Usage](http://bit.ly/1TCNmEY) - A guide going over basic usage
 * [TensorFlow Deep MNIST for Experts](http://bit.ly/1L9IfJx) - Goes over Deep MNIST
+* [Beginning ML with TensorFlow.js](https://academy.infinite.red/p/beginning-machine-learning-with-tensorflow-js) - TensorFlow.js for JavaScript developers course
 * [TensorFlow Udacity Deep Learning](https://www.youtube.com/watch?v=ReaxoSIM5XQ) - Basic steps to install TensorFlow for free on the Cloud 9 online service with 1Gb of data
 * [Why Google wants everyone to have access to TensorFlow](http://video.foxnews.com/v/4611174773001/why-google-wants-everyone-to-have-access-to-tensorflow/?#sp=show-clips)
 * [Videos from TensorFlow Silicon Valley Meet Up 1/19/2016](http://blog.altoros.com/videos-from-tensorflow-silicon-valley-meetup-january-19-2016.html)
