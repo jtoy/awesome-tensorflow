@@ -114,6 +114,7 @@ More info [here](http://tensorflow.org).
 * [Ladder Network](https://github.com/divamgupta/ladder_network_keras) - Implementation of Ladder Network for Semi-Supervised Learning in Keras and Tensorflow
 <a name="github-powered-by" />
 * [TF-Unet](https://github.com/juniorxsound/TF-Unet) - General purpose U-Network implemented in Keras for image segmentation
+* [Sarus TF2 Models](https://github.com/sarus-tech/tf2-published-models) - A long list of recent generative models implemented in clean, easy to reuse, Tensorflow 2 code (Plain Autoencoder, VAE, VQ-VAE, PixelCNN, Gated PixelCNN, PixelCNN++, PixelSNAIL, Conditional Neural Processes).
 
 ## Powered by TensorFlow
 
