@@ -155,6 +155,7 @@ More info [here](http://tensorflow.org).
 
 ## Tools/Utilities
 
+* [Determined](https://github.com/determined-ai/determined) - Deep learning training platform with integrated support for distributed training, hyperparameter tuning, smart GPU scheduling, experiment tracking, and a model registry. Supports TensorFlow Estimators and tf.keras.
 * [Guild AI](https://guild.ai) - Task runner and package manager for TensorFlow
 * [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web IDE for machine learning and data science. Combines Tensorflow, Jupyter, VS Code, Tensorboard, and many other tools/libraries into one Docker image.
 
