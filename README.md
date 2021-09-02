@@ -159,6 +159,7 @@ More info [here](http://tensorflow.org).
 
 * [Guild AI](https://guild.ai) - Task runner and package manager for TensorFlow
 * [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web IDE for machine learning and data science. Combines Tensorflow, Jupyter, VS Code, Tensorboard, and many other tools/libraries into one Docker image.
+* [Neptune](https://neptune.ai) - Helps with keeping track of model training metadata. Logs TensorFlow tensors as images to see model predictions live.
 
 <a name="video" />
 
