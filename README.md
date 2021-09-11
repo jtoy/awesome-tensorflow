@@ -178,6 +178,7 @@ More info [here](http://tensorflow.org).
 * [Tensorflow and deep learning - without at PhD](https://www.youtube.com/watch?v=vq2nnJ4g6N0) -  by Martin Görner
 * [Tensorflow and deep learning - without at PhD, Part 2 (Google Cloud Next '17)](https://www.youtube.com/watch?v=fTUwdXUFfI8) -  by Martin Görner
 * [Image recognition in Go using TensorFlow](https://youtu.be/P8MZ1Z2LHrw) -  by Alex Pliutau
+* [Learn Artificial Intelligence with TensorFlow (Video)](https://www.packtpub.com/big-data-and-business-intelligence/learn-artificial-intelligence-tensorflow-video) -  by Brandon McKinzie
 
 
 
@@ -242,6 +243,10 @@ More info [here](http://tensorflow.org).
 * [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do) – by Aurélien Geron, former lead of the YouTube video classification team. Covers ML fundamentals, training and deploying deep nets across multiple servers and GPUs using TensorFlow, the latest CNN, RNN and Autoencoder architectures, and Reinforcement Learning (Deep Q).
 * [Building Machine Learning Projects with Tensorflow](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-projects-tensorflow) – by Rodolfo Bonnin. This book covers various projects in TensorFlow that expose what can be done with TensorFlow in different scenarios. The book provides projects on training models, machine learning, deep learning, and working with various neural networks. Each project is an engaging and insightful exercise that will teach you how to use TensorFlow and show you how layers of data can be explored by working with Tensors.
 * [Deep Learning using TensorLayer](http://www.broadview.com.cn/book/5059) - by Hao Dong et al. This book covers both deep learning and the implmentation by using TensorFlow and TensorLayer.
+* [Natural Language Processing with TensorFlow](https://www.amazon.com/dp/1788478312) – by Thushan Ganegedara. Write modern natural language processing applications using deep learning algorithms and TensorFlow
+* [Intelligent Mobile Projects with TensorFlow](https://www.amazon.com/dp/1788834542) – by Jeff Tang. Create Deep Learning and Reinforcement Learning apps for multiple platforms with TensorFlow
+
+
 
 
 
