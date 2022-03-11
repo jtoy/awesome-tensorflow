@@ -48,6 +48,7 @@ More info [here](http://tensorflow.org).
 * [TensorLayer](http://tensorlayer.readthedocs.io/en/latest/user/tutorial.html) - Modular implementation for TensorFlow's official tutorials. ([CN](https://tensorlayercn.readthedocs.io/zh/latest/user/tutorial.html)).
 * [Understanding The Tensorflow Estimator API](https://www.lighttag.io/blog/tensorflow-estimator-api/) A conceptual overview of the Estimator API, when you'd use it and why. 
 * [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow) - Convolutional Neural Networks in Tensorflow, offered by Coursera
+* [Guild AI and TensorFlow 2.0](https://my.guild.ai/t/guild-ai-and-tensorflow-2/237) - Step-by-step guide to optimizing TensorFlow models using experiment tracking and TensorBoard
 
 <a name="github-projects" />
 
@@ -157,7 +158,7 @@ More info [here](http://tensorflow.org).
 
 ## Tools/Utilities
 
-* [Guild AI](https://guild.ai) - Task runner and package manager for TensorFlow
+* [Guild AI](https://guild.ai) - Open source experiment tracking, hyperparameter optimization, TensorBoard integration
 * [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web IDE for machine learning and data science. Combines Tensorflow, Jupyter, VS Code, Tensorboard, and many other tools/libraries into one Docker image.
 
 <a name="video" />
