@@ -153,6 +153,7 @@ More info [here](http://tensorflow.org).
 * [StellarGraph](https://github.com/stellargraph/stellargraph) - Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.
 * [DeepBay](https://github.com/ElPapi42/DeepBay) - High-Level Keras Complement for implement common architectures stacks, served as easy to use plug-n-play modules
 * [Tensorflow-Probability](https://www.tensorflow.org/probability) - Probabalistic programming built on TensorFlow that makes it easy to combine probabilistic models and deep learning on modern hardware.
+* [Explore top Tensorflow Libraries](https://kandi.openweaver.com/search/libraries?q=tensorflow) - Discover a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi
 
 <a name="tools-utils" />
 
