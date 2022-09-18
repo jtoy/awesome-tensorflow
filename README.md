@@ -180,7 +180,7 @@ More info [here](http://tensorflow.org).
 * [Tensorflow and deep learning - without at PhD](https://www.youtube.com/watch?v=vq2nnJ4g6N0) -  by Martin Görner
 * [Tensorflow and deep learning - without at PhD, Part 2 (Google Cloud Next '17)](https://www.youtube.com/watch?v=fTUwdXUFfI8) -  by Martin Görner
 * [Image recognition in Go using TensorFlow](https://youtu.be/P8MZ1Z2LHrw) -  by Alex Pliutau
-
+* [Free Tensorflow courses](https://skillcombo.com/topic/tensorflow/free/) -  A curated list of free Tensorflow courses.
 
 
 <a name="papers" />
