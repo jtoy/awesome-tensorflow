@@ -47,8 +47,10 @@ More info [here](http://tensorflow.org).
 * [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow howtos and best practices. Covers the basics as well as advanced topics.
 * [TensorLayer](http://tensorlayer.readthedocs.io/en/latest/user/tutorial.html) - Modular implementation for TensorFlow's official tutorials. ([CN](https://tensorlayercn.readthedocs.io/zh/latest/user/tutorial.html)).
 * [Understanding The Tensorflow Estimator API](https://www.lighttag.io/blog/tensorflow-estimator-api/) A conceptual overview of the Estimator API, when you'd use it and why. 
+* [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) - Introduction to Tensorflow offered by Coursera
 * [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow) - Convolutional Neural Networks in Tensorflow, offered by Coursera
 * [Advanced Federated Learning Example with Flower](https://github.com/adap/flower/tree/main/examples/advanced_tensorflow) - Demonstration of an advanced federated learning setup using Flower with TensorFlow.
+
 
 <a name="github-projects" />
 
@@ -149,17 +151,21 @@ More info [here](http://tensorflow.org).
 * [tensorpack](https://github.com/ppwwyyxx/tensorpack) - Neural Network Toolbox on TensorFlow focusing on training speed and on large datasets.
 * [tf-encrypted](https://github.com/mortendahl/tf-encrypted) - Layer on top of TensorFlow for doing machine learning on encrypted data
 * [pytorch2keras](https://github.com/nerox8664/pytorch2keras) - Convert PyTorch models to Keras (with TensorFlow backend) format
-* [gluon2keras](https://github.com/nerox8664/gluon2keras) - Convert Gluon models to Keras (with TensorFlow backend) format
+* [gluon2keras](https://github.com/stjordanis/gluon2keras) - Convert Gluon models to Keras (with TensorFlow backend) format
 * [TensorIO](https://doc-ai.github.io/tensorio/) - Lightweight, cross-platform library for deploying TensorFlow Lite models to mobile devices. 
 * [StellarGraph](https://github.com/stellargraph/stellargraph) - Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.
 * [DeepBay](https://github.com/ElPapi42/DeepBay) - High-Level Keras Complement for implement common architectures stacks, served as easy to use plug-n-play modules
+* [Tensorflow-Probability](https://www.tensorflow.org/probability) - Probabalistic programming built on TensorFlow that makes it easy to combine probabilistic models and deep learning on modern hardware.
+* [TensorLayerX](https://github.com/tensorlayer/TensorLayerX) - TensorLayerX: A Unified Deep Learning Framework for All Hardwares, Backends and OS, including TensorFlow.
 
 <a name="tools-utils" />
 
 ## Tools/Utilities
 
+* [Speedster](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster) - Automatically apply SOTA optimization techniques to achieve the maximum inference speed-up on your hardware.
 * [Guild AI](https://guild.ai) - Task runner and package manager for TensorFlow
 * [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web IDE for machine learning and data science. Combines Tensorflow, Jupyter, VS Code, Tensorboard, and many other tools/libraries into one Docker image.
+* [create-tf-app](https://github.com/radi-cho/create-tf-app) - Project builder command line tool for Tensorflow covering environment management, linting, and logging.
 
 <a name="video" />
 
@@ -244,6 +250,7 @@ More info [here](http://tensorflow.org).
 * [Building Machine Learning Projects with Tensorflow](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-projects-tensorflow) – by Rodolfo Bonnin. This book covers various projects in TensorFlow that expose what can be done with TensorFlow in different scenarios. The book provides projects on training models, machine learning, deep learning, and working with various neural networks. Each project is an engaging and insightful exercise that will teach you how to use TensorFlow and show you how layers of data can be explored by working with Tensors.
 * [Deep Learning using TensorLayer](http://www.broadview.com.cn/book/5059) - by Hao Dong et al. This book covers both deep learning and the implmentation by using TensorFlow and TensorLayer.
 * [TensorFlow 2.0 in Action](https://www.manning.com/books/tensorflow-in-action) - by Thushan Ganegedara. This practical guide to building deep learning models with the new features of TensorFlow 2.0 is filled with engaging projects, simple language, and coverage of the latest algorithms.
+* [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - by Cameron Davidson-Pilon. Introduction to Bayesian methods and probabalistic graphical models using tensorflow-probability (and, alternatively PyMC2/3). 
 
 
 
