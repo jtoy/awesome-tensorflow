@@ -117,7 +117,6 @@ More info [here](http://tensorflow.org).
 * [Model Maker](https://www.tensorflow.org/lite/guide/model_maker) - A transfer learning library that simplifies the process of training, evaluation and deployment for TensorFlow Lite models (support: Image Classification, Object Detection, Text Classification, BERT Question Answer, Audio Classification, Recommendation etc.; [API reference](https://www.tensorflow.org/lite/api_docs/python/tflite_model_maker)).
 
 
-
 <a name="github-powered-by" />
 
 ## Powered by TensorFlow
