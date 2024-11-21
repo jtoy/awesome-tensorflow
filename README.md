@@ -251,6 +251,11 @@ More info [here](http://tensorflow.org).
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - by Cameron Davidson-Pilon. Introduction to Bayesian methods and probabilistic graphical models using tensorflow-probability (and, alternatively PyMC2/3). 
 
 
+<a name="encyclopedic"  />
+
+## Encyclopedic
+
+* [Golden Tensorflow page](https://golden.co/wiki/TensorFlow) - Page on Tensorflow, including academic papers, with links out to related topics
 
 <a name="contributions" />
 
