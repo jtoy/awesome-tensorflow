@@ -49,7 +49,8 @@ More info [here](http://tensorflow.org).
 * [Understanding The Tensorflow Estimator API](https://www.lighttag.io/blog/tensorflow-estimator-api/) A conceptual overview of the Estimator API, when you'd use it and why. 
 * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) - Introduction to Tensorflow offered by Coursera
 * [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow) - Convolutional Neural Networks in Tensorflow, offered by Coursera
-* [TensorLayerX](https://tensorlayerx.readthedocs.io/en/latest/index.html#user-guide) - Using TensorFlow like PyTorch. ([Api docs](https://tensorlayerx.readthedocs.io/en/latest/index.html#))
+* [Advanced Federated Learning Example with Flower](https://github.com/adap/flower/tree/main/examples/advanced_tensorflow) - Demonstration of an advanced federated learning setup using Flower with TensorFlow.
+
 
 <a name="github-projects" />
 
@@ -115,7 +116,7 @@ More info [here](http://tensorflow.org).
 * [TF-Unet](https://github.com/juniorxsound/TF-Unet) - General purpose U-Network implemented in Keras for image segmentation
 * [Sarus TF2 Models](https://github.com/sarus-tech/tf2-published-models) - A long list of recent generative models implemented in clean, easy to reuse, Tensorflow 2 code (Plain Autoencoder, VAE, VQ-VAE, PixelCNN, Gated PixelCNN, PixelCNN++, PixelSNAIL, Conditional Neural Processes).
 * [Model Maker](https://www.tensorflow.org/lite/guide/model_maker) - A transfer learning library that simplifies the process of training, evaluation and deployment for TensorFlow Lite models (support: Image Classification, Object Detection, Text Classification, BERT Question Answer, Audio Classification, Recommendation etc.; [API reference](https://www.tensorflow.org/lite/api_docs/python/tflite_model_maker)).
-
+* [Flower](https://flower.dev/) - A unified apporoach to federated learning, analytics, and evaluation. 
 
 <a name="github-powered-by" />
 
