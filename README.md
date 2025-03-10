@@ -155,6 +155,7 @@ More info [here](http://tensorflow.org).
 * [DeepBay](https://github.com/ElPapi42/DeepBay) - High-Level Keras Complement for implement common architectures stacks, served as easy to use plug-n-play modules
 * [Tensorflow-Probability](https://www.tensorflow.org/probability) - Probabilistic programming built on TensorFlow that makes it easy to combine probabilistic models and deep learning on modern hardware.
 * [TensorLayerX](https://github.com/tensorlayer/TensorLayerX) - TensorLayerX: A Unified Deep Learning Framework for All Hardwares, Backends and OS, including TensorFlow.
+* [Txeo](https://github.com/rdabra/txeo) - A modern C++ wrapper for TensorFlow.
 
 <a name="tools-utils" />
 
