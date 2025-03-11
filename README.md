@@ -240,6 +240,8 @@ More info [here](http://tensorflow.org).
 
 ## Books
 
+
+* [Deep Learning with Swift for TensorFlow](https://link.springer.com/book/10.1007/978-1-4842-6330-3) - Differentiable Programming with Swift by Rahul Bhalley. This book strongly focuses on introducing the basics of machine & deep learning, mathematics behind it in simple language, and readers also learn to implement state-of-the-art deep learning models using Swift for TensorFlow.
 * [Machine Learning with TensorFlow](http://tensorflowbook.com) by Nishant Shukla, computer vision researcher at UCLA and author of Haskell Data Analysis Cookbook. This book makes the math-heavy topic of ML approachable and practicle to a newcomer. 
 * [First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/) by Jordi Torres, professor at UPC Barcelona Tech and a research manager and senior advisor at Barcelona Supercomputing Center
 * [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) - Develop Deep Learning Models on Theano and TensorFlow Using Keras by Jason Brownlee
@@ -250,7 +252,6 @@ More info [here](http://tensorflow.org).
 * [Deep Learning using TensorLayer](http://www.broadview.com.cn/book/5059) - by Hao Dong et al. This book covers both deep learning and the implementation by using TensorFlow and TensorLayer.
 * [TensorFlow 2.0 in Action](https://www.manning.com/books/tensorflow-in-action) - by Thushan Ganegedara. This practical guide to building deep learning models with the new features of TensorFlow 2.0 is filled with engaging projects, simple language, and coverage of the latest algorithms.
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - by Cameron Davidson-Pilon. Introduction to Bayesian methods and probabilistic graphical models using tensorflow-probability (and, alternatively PyMC2/3). 
-
 
 
 <a name="contributions" />
