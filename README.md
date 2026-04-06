@@ -2,6 +2,7 @@
 
 A curated list of awesome TensorFlow experiments, libraries, and projects. Inspired by awesome-machine-learning.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for TensorFlow workflow orchestration, automated model management, and multi-agent coordination. MIT licensed.
 ## What is TensorFlow?
 
 TensorFlow is an open source software library for numerical computation using data flow graphs. In other words, the best way to build deep learning models.
