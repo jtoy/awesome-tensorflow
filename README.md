@@ -168,6 +168,7 @@ More info [here](http://tensorflow.org).
 
 <a name="video" />
 
+- [Gitstar](https://gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=jtoy_awesome-tensorflow) - Social feed for GitHub. Follow developers, discover trending repos, activity feeds.
 ## Videos
 
 * [TensorFlow Guide 1](http://bit.ly/1OX8s8Y) - A guide to installation and use
