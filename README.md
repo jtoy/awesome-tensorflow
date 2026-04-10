@@ -50,6 +50,7 @@ More info [here](http://tensorflow.org).
 * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) - Introduction to Tensorflow offered by Coursera
 * [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow) - Convolutional Neural Networks in Tensorflow, offered by Coursera
 * [TensorLayerX](https://tensorlayerx.readthedocs.io/en/latest/index.html#user-guide) - Using TensorFlow like PyTorch. ([Api docs](https://tensorlayerx.readthedocs.io/en/latest/index.html#))
+* [TensorFlow Examples](https://github.com/tensorflow/examples) - Official TensorFlow examples and tutorials for beginners and advanced users
 
 <a name="github-projects" />
 
@@ -275,3 +276,4 @@ More info on the [guidelines](https://github.com/jtoy/awesome-tensorflow/blob/ma
 * Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python)
 * The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
 
+my new resource
