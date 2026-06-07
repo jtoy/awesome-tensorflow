@@ -45,7 +45,7 @@ More info [here](http://tensorflow.org).
 * [CS20 SI: TensorFlow for DeepLearning Research](http://web.stanford.edu/class/cs20si/syllabus.html) - Stanford Course about Tensorflow from 2017 - [Syllabus](http://web.stanford.edu/class/cs20si/syllabus.html) - [Unofficial Videos](https://youtu.be/g-EvyKpZjmQ?list=PLSPPwKHXGS2110rEaNH7amFGmaD5hsObs)
 * [TensorFlow World](https://github.com/astorfi/TensorFlow-World) - Concise and ready-to-use TensorFlow tutorials with detailed documentation are provided.
 * [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow howtos and best practices. Covers the basics as well as advanced topics.
-* [TensorLayer](http://tensorlayer.readthedocs.io/en/latest/user/tutorial.html) - Modular implementation for TensorFlow's official tutorials. ([CN](https://tensorlayercn.readthedocs.io/zh/latest/user/tutorial.html)).
+* [TensorLayer]((https://tensorlayer.readthedocs.io/en/1.11.0/user/tutorials.html)) - Modular implementation for TensorFlow's official tutorials. ([CN](https://tensorlayercn.readthedocs.io/zh/latest/user/tutorial.html)).
 * [Understanding The Tensorflow Estimator API](https://www.lighttag.io/blog/tensorflow-estimator-api/) A conceptual overview of the Estimator API, when you'd use it and why. 
 * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) - Introduction to Tensorflow offered by Coursera
 * [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow) - Convolutional Neural Networks in Tensorflow, offered by Coursera
@@ -114,7 +114,7 @@ More info [here](http://tensorflow.org).
 * [Ladder Network](https://github.com/divamgupta/ladder_network_keras) - Implementation of Ladder Network for Semi-Supervised Learning in Keras and Tensorflow
 * [TF-Unet](https://github.com/juniorxsound/TF-Unet) - General purpose U-Network implemented in Keras for image segmentation
 * [Sarus TF2 Models](https://github.com/sarus-tech/tf2-published-models) - A long list of recent generative models implemented in clean, easy to reuse, Tensorflow 2 code (Plain Autoencoder, VAE, VQ-VAE, PixelCNN, Gated PixelCNN, PixelCNN++, PixelSNAIL, Conditional Neural Processes).
-* [Model Maker](https://www.tensorflow.org/lite/guide/model_maker) - A transfer learning library that simplifies the process of training, evaluation and deployment for TensorFlow Lite models (support: Image Classification, Object Detection, Text Classification, BERT Question Answer, Audio Classification, Recommendation etc.; [API reference](https://www.tensorflow.org/lite/api_docs/python/tflite_model_maker)).
+* [Model Maker](https://www.tensorflow.org/lite/guide/model_maker) - A transfer learning library that simplifies the process of training, evaluation and deployment for TensorFlow Lite models (support: Image Classification, Object Detection, Text Classification, BERT Question Answer, Audio Classification, Recommendation etc.
 
 
 <a name="github-powered-by" />
@@ -241,9 +241,7 @@ More info [here](http://tensorflow.org).
 ## Books
 
 * [Machine Learning with TensorFlow 2nd edition]([http://tensorflowbook.com](https://github.com/chrismattmann/MLwithTensorFlow2ed)) by [Dr. Chris A. Mattmann](http://github.com/chrismattmann/), Chief Data and Artificial Intelligence Officer at UCLA and author also of [Tika in Action](https://www.manning.com/books/tika-in-action). This book makes the math-heavy topic of AI and ML approachable and practicle to a newcomer. Updated to Tensorflow2 and the latest version of this book.
-* [First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/) by Jordi Torres, professor at UPC Barcelona Tech and a research manager and senior advisor at Barcelona Supercomputing Center
 * [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) - Develop Deep Learning Models on Theano and TensorFlow Using Keras by Jason Brownlee
-* [TensorFlow for Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/) - Complete guide to use TensorFlow from the basics of graph computing, to deep learning models to using it in production environments - Bleeding Edge Press
 * [Getting Started with TensorFlow](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-tensorflow) - Get up and running with the latest numerical computing library by Google and dive deeper into your data, by Giancarlo Zaccone
 * [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do) – by Aurélien Geron, former lead of the YouTube video classification team. Covers ML fundamentals, training and deploying deep nets across multiple servers and GPUs using TensorFlow, the latest CNN, RNN and Autoencoder architectures, and Reinforcement Learning (Deep Q).
 * [Building Machine Learning Projects with Tensorflow](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-projects-tensorflow) – by Rodolfo Bonnin. This book covers various projects in TensorFlow that expose what can be done with TensorFlow in different scenarios. The book provides projects on training models, machine learning, deep learning, and working with various neural networks. Each project is an engaging and insightful exercise that will teach you how to use TensorFlow and show you how layers of data can be explored by working with Tensors.
